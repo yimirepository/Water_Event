@@ -1,0 +1,31 @@
+I ran the six single-mode comparisons and the pre-specified three-mode combination under both validation schemes. The scenario contrasts are similar across schemes. The observed prediction errors are also close, although pooled \(R^2\) is lower in the chronological evaluation.
+Hard-coded scenario	Original 2011–2019 split, \(n=94\) conflict cases	Chronological folds, \(n=33\) conflict cases
+Cross-Border Basin Agreements	0.78	0.76
+Collaborative River Basin Planning	0.87	0.79
+Joint Water Allocation Models	0.84	0.76
+Joint Data-Sharing Systems	0.86	0.87
+Transboundary Water Quality Standards	0.88	0.87
+Coordinated Hydropower Operations	0.89	0.88
+Three-mode Integrative Governance combination	0.64	0.57
+
+
+The entries are mean differences in predicted five-year conflict counts. The original split produced MAE 0.54, RMSE 1.24, and \(R^2=0.25\); the five chronological folds produced pooled MAE 0.54, RMSE 1.18, and \(R^2=0.17\). I have not reported block-specific \(R^2\).
+
+The original Figure 4 estimate of 1.11 used a narrower subset in which all three modes were already coded together. The table above applies the fixed combination to all conflict cases in each evaluation scheme, so the combination can be compared with the six individual modes on a common sample definition. It gives 0.64 and 0.57, respectively. I would keep the 1.11 result as the original Figure 4 estimate and present this table as the temporal robustness check.
+Methods, Section 3.5
+Add after the paragraph describing the Random Forest and SHAP analysis:
+To assess sensitivity to temporal dependence, we repeated the six individual-mode comparisons and the pre-specified three-mode combination in five chronological folds. Each model was fitted using earlier observations and evaluated on a later period, with the five-year outcome windows kept separate between training and test data. We pooled predictions across folds to calculate MAE, RMSE, and \(R^2\). The fold periods and results are reported in Supplementary Materials S4.
+
+This describes the robustness check without repeating the scenario-coding procedure already explained in the manuscript.
+Results, Section 4.3
+Add after the paragraph reporting the original 1.11 estimate:
+Across five chronological test blocks, predictions for 617 held-out country-year observations had a pooled MAE of 0.54, RMSE of 1.18, and \(R^2\) of 0.17. The six individual-mode comparisons produced mean predicted differences ranging from 0.76 to 0.88, close to the range of 0.78 to 0.89 under the original 2011–2019 split. The pre-specified three-mode combination produced mean differences of 0.57 in the chronological folds and 0.64 under the original split. The hard-coded comparisons therefore show a similar pattern across the two evaluation schemes.
+
+Response to Reviewer 2, Comment 7
+Reviewer comment:
+Five-year conflict windows strongly overlap between adjacent years. A blocked or chronological validation is needed to avoid temporal dependence and data leakage.
+
+Proposed response:
+Thank you for identifying the overlap between adjacent five-year outcomes. We added a chronological validation with five test blocks whose outcome periods do not overlap with the corresponding training outcomes. Across 617 held-out country-year observations, pooled predictions had an MAE of 0.54, an RMSE of 1.18, and an \(R^2\) of 0.17. The original 2011–2019 split produced an MAE of 0.54, an RMSE of 1.24, and an \(R^2\) of 0.25.
+
+We also repeated the hard-coded comparisons for each individual mode and the pre-specified three-mode combination under both evaluation schemes. The six individual-mode contrasts ranged from 0.78 to 0.89 in the original split and from 0.76 to 0.88 in the chronological validation. The three-mode contrast was 0.64 and 0.57, respectively, when applied to all conflict cases in each test sample. These results are reported in Methods Section 3.5, Results Section 4.3, and Supplementary Materials S4.
