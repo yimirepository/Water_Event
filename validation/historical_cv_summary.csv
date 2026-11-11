@@ -1,0 +1,2 @@
+heldout_n,heldout_events,countries,event_rate,pooled_auc,pooled_brier,pooled_average_precision,top_decile_n,top_decile_events,top_decile_event_rate
+3180,205,183,0.06446540880503145,0.801621643779463,0.05508610062893081,0.22432764026447874,318,82,0.2578616352201258

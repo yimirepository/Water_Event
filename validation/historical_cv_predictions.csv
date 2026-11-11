@@ -1,0 +1,3181 @@
+iso3,country,year,observed,risk_score,fold
+ALB,Albania,1991,0,0.01,1
+ALB,Albania,1992,0,0.01,1
+ALB,Albania,1993,0,0.0,1
+ALB,Albania,1994,0,0.05,1
+ALB,Albania,1995,0,0.01,1
+DZA,Algeria,1992,0,0.01,1
+DZA,Algeria,1994,0,0.0,1
+DZA,Algeria,1995,0,0.0,1
+ARG,Argentina,1991,0,0.02,1
+ARM,Armenia,1992,0,0.02,1
+ARM,Armenia,1993,1,0.12,1
+ARM,Armenia,1994,0,0.02,1
+ARM,Armenia,1995,0,0.04,1
+AUS,Australia,1991,0,0.0,1
+AUS,Australia,1992,0,0.0,1
+AUS,Australia,1993,0,0.0,1
+AUS,Australia,1994,0,0.01,1
+AUS,Australia,1995,0,0.0,1
+AUT,Austria,1991,0,0.0,1
+AUT,Austria,1993,0,0.0,1
+AUT,Austria,1995,0,0.0,1
+AZE,Azerbaijan,1992,0,0.0,1
+AZE,Azerbaijan,1993,1,0.16,1
+AZE,Azerbaijan,1994,0,0.0,1
+AZE,Azerbaijan,1995,0,0.0,1
+BHS,Bahamas,1992,0,0.0,1
+BHR,Bahrain,1994,0,0.14,1
+BGD,Bangladesh,1993,0,0.0,1
+BGD,Bangladesh,1995,0,0.0,1
+BLR,Belarus,1992,0,0.0,1
+BLR,Belarus,1993,0,0.01,1
+BLR,Belarus,1994,0,0.01,1
+BLR,Belarus,1995,0,0.0,1
+BTN,Bhutan,1991,0,0.0,1
+BTN,Bhutan,1992,0,0.0,1
+BTN,Bhutan,1993,0,0.0,1
+BTN,Bhutan,1994,0,0.01,1
+BTN,Bhutan,1995,0,0.01,1
+GNB,Bissau,1991,0,0.0,1
+GNB,Bissau,1993,0,0.0,1
+GNB,Bissau,1994,0,0.0,1
+GNB,Bissau,1995,0,0.02,1
+BOL,Bolivia,1992,0,0.03,1
+BOL,Bolivia,1993,0,0.04,1
+BOL,Bolivia,1994,0,0.0,1
+BIH,Bosnia and Herzegovina,1995,0,0.0,1
+BWA,Botswana,1991,0,0.01,1
+BWA,Botswana,1992,0,0.0,1
+BWA,Botswana,1993,0,0.0,1
+BWA,Botswana,1994,0,0.08,1
+BWA,Botswana,1995,0,0.06,1
+BRA,Brazil,1992,0,0.07,1
+BRA,Brazil,1993,0,0.03,1
+BRA,Brazil,1994,0,0.06,1
+BRA,Brazil,1995,0,0.01,1
+BGR,Bulgaria,1993,0,0.0,1
+BGR,Bulgaria,1995,0,0.0,1
+BFA,Burkina Faso,1991,0,0.0,1
+BFA,Burkina Faso,1992,0,0.0,1
+BFA,Burkina Faso,1993,0,0.0,1
+BFA,Burkina Faso,1994,0,0.0,1
+BFA,Burkina Faso,1995,0,0.0,1
+BDI,Burundi,1991,0,0.0,1
+BDI,Burundi,1992,0,0.0,1
+BDI,Burundi,1993,0,0.01,1
+BDI,Burundi,1994,0,0.0,1
+BDI,Burundi,1995,0,0.0,1
+CMR,Cameroon,1991,0,0.0,1
+CMR,Cameroon,1992,0,0.0,1
+CMR,Cameroon,1993,0,0.0,1
+CMR,Cameroon,1994,0,0.0,1
+CMR,Cameroon,1995,0,0.0,1
+CAN,Canada,1991,0,0.0,1
+CAN,Canada,1992,0,0.0,1
+CAN,Canada,1993,0,0.01,1
+CAN,Canada,1994,0,0.0,1
+CAN,Canada,1995,0,0.0,1
+TCD,Chad,1991,0,0.02,1
+TCD,Chad,1992,0,0.01,1
+TCD,Chad,1993,0,0.0,1
+TCD,Chad,1994,0,0.0,1
+TCD,Chad,1995,0,0.0,1
+CHL,Chile,1991,0,0.2,1
+CHL,Chile,1992,0,0.16,1
+CHL,Chile,1993,0,0.2,1
+CHL,Chile,1994,0,0.2,1
+CHL,Chile,1995,0,0.2,1
+CHN,China,1991,1,0.09,1
+CHN,China,1992,1,0.1,1
+CHN,China,1993,0,0.0,1
+CHN,China,1994,0,0.1,1
+CHN,China,1995,0,0.13,1
+COL,Columbia,1991,0,0.0,1
+COL,Columbia,1992,0,0.0,1
+COL,Columbia,1993,0,0.01,1
+COL,Columbia,1994,0,0.0,1
+COL,Columbia,1995,0,0.0,1
+COD,Congo Democratic Republic of the (Brazzaville),1994,0,0.0,1
+COD,Congo Democratic Republic of the (Brazzaville),1995,0,0.0,1
+CRI,Costa Rica,1991,0,0.0,1
+CRI,Costa Rica,1992,0,0.0,1
+CRI,Costa Rica,1993,0,0.0,1
+CRI,Costa Rica,1994,0,0.0,1
+CRI,Costa Rica,1995,0,0.0,1
+CIV,Cote D’Ivoire,1991,0,0.0,1
+CIV,Cote D’Ivoire,1992,0,0.0,1
+CIV,Cote D’Ivoire,1993,0,0.01,1
+CIV,Cote D’Ivoire,1994,0,0.0,1
+CIV,Cote D’Ivoire,1995,0,0.0,1
+HRV,Croatia,1995,0,0.0,1
+CUB,Cuba,1991,0,0.0,1
+CUB,Cuba,1992,0,0.02,1
+CUB,Cuba,1993,0,0.02,1
+CUB,Cuba,1994,0,0.02,1
+CUB,Cuba,1995,0,0.02,1
+CYP,Cyprus,1991,0,0.1,1
+CYP,Cyprus,1992,0,0.1,1
+CYP,Cyprus,1993,0,0.11,1
+CYP,Cyprus,1994,0,0.1,1
+CYP,Cyprus,1995,0,0.13,1
+CZE,Czech Republic,1993,0,0.23,1
+CZE,Czechoslovakia (Czech),1995,0,0.0,1
+SVK,Czechoslovakia (Slovak Federation),1995,0,0.0,1
+DOM,Dominican Republic,1991,0,0.0,1
+DOM,Dominican Republic,1992,0,0.0,1
+DOM,Dominican Republic,1993,0,0.0,1
+DOM,Dominican Republic,1994,0,0.0,1
+DOM,Dominican Republic,1995,0,0.0,1
+ECU,Ecuador,1991,0,0.05,1
+ECU,Ecuador,1992,0,0.0,1
+ECU,Ecuador,1993,0,0.0,1
+ECU,Ecuador,1994,0,0.0,1
+ECU,Ecuador,1995,1,0.0,1
+EGY,Egypt,1991,1,0.07,1
+EGY,Egypt,1992,0,0.06,1
+EGY,Egypt,1993,0,0.59,1
+EGY,Egypt,1994,0,0.04,1
+EGY,Egypt,1995,1,0.08,1
+SLV,El Salvador,1991,0,0.02,1
+SLV,El Salvador,1993,0,0.0,1
+SLV,El Salvador,1994,0,0.01,1
+SLV,El Salvador,1995,0,0.01,1
+ERI,Eritrea,1993,0,0.0,1
+ERI,Eritrea,1994,0,0.0,1
+ERI,Eritrea,1995,0,0.0,1
+EUU,European Commission,1992,0,0.0,1
+DEU,Federal Republic of Germany,1995,0,0.01,1
+FIN,Finland,1991,0,0.04,1
+FIN,Finland,1992,0,0.05,1
+FIN,Finland,1993,0,0.0,1
+FIN,Finland,1994,0,0.0,1
+FIN,Finland,1995,0,0.0,1
+FRA,France,1991,0,0.03,1
+FRA,France,1992,0,0.0,1
+FRA,France,1993,0,0.03,1
+FRA,France,1994,0,0.0,1
+FRA,France,1995,0,0.01,1
+GMB,Gambia,1991,0,0.02,1
+GMB,Gambia,1992,0,0.0,1
+GMB,Gambia,1993,0,0.03,1
+GMB,Gambia,1994,0,0.0,1
+GMB,Gambia,1995,0,0.05,1
+GEO,Georgia,1992,0,0.02,1
+GEO,Georgia,1993,0,0.02,1
+GEO,Georgia,1994,0,0.05,1
+GEO,Georgia,1995,0,0.02,1
+DEU,German Fed. Republic (West Germany),1991,0,0.02,1
+DEU,Germany,1992,0,0.01,1
+DEU,Germany,1993,0,0.01,1
+DEU,Germany,1994,0,0.03,1
+GHA,Ghana,1991,0,0.01,1
+GHA,Ghana,1992,0,0.01,1
+GHA,Ghana,1993,0,0.01,1
+GHA,Ghana,1994,0,0.01,1
+GHA,Ghana,1995,0,0.0,1
+GBR,Great Britain,1991,0,0.0,1
+GBR,Great Britain,1992,0,0.0,1
+GBR,Great Britain,1993,0,0.01,1
+GBR,Great Britain,1994,0,0.16,1
+GBR,Great Britain,1995,0,0.0,1
+GRC,Greece,1991,0,0.0,1
+GRC,Greece,1992,0,0.0,1
+GRC,Greece,1993,0,0.0,1
+GRC,Greece,1994,0,0.0,1
+GRC,Greece,1995,0,0.0,1
+GTM,Guatamala,1992,0,0.07,1
+GTM,Guatemala,1991,0,0.04,1
+GTM,Guatemala,1993,0,0.0,1
+GTM,Guatemala,1994,0,0.01,1
+GTM,Guatemala,1995,0,0.01,1
+GIN,Guinea,1991,0,0.02,1
+GIN,Guinea,1992,0,0.0,1
+GIN,Guinea,1993,0,0.01,1
+GIN,Guinea,1994,0,0.01,1
+GIN,Guinea,1995,0,0.01,1
+GUY,Guyana,1991,0,0.02,1
+GUY,Guyana,1992,0,0.03,1
+GUY,Guyana,1993,0,0.02,1
+GUY,Guyana,1994,0,0.02,1
+GUY,Guyana,1995,0,0.02,1
+HTI,Haiti,1991,0,0.01,1
+HTI,Haiti,1992,0,0.01,1
+HTI,Haiti,1993,0,0.0,1
+HTI,Haiti,1994,0,0.0,1
+HTI,Haiti,1995,0,0.0,1
+HND,Honduras,1991,0,0.0,1
+HND,Honduras,1992,0,0.0,1
+HND,Honduras,1993,0,0.0,1
+HND,Honduras,1994,0,0.0,1
+HND,Honduras,1995,0,0.0,1
+HUN,Hungary,1991,1,0.0,1
+HUN,Hungary,1992,1,0.1,1
+HUN,Hungary,1993,1,0.0,1
+HUN,Hungary,1994,0,0.08,1
+HUN,Hungary,1995,0,0.0,1
+IND,India,1991,1,0.01,1
+IND,India,1992,1,0.0,1
+IND,India,1993,0,0.01,1
+IND,India,1994,1,0.07,1
+IND,India,1995,0,0.01,1
+IDN,Indonesia,1991,0,0.0,1
+IDN,Indonesia,1992,0,0.05,1
+IDN,Indonesia,1993,0,0.0,1
+IDN,Indonesia,1994,0,0.0,1
+IDN,Indonesia,1995,0,0.0,1
+IRN,Iran,1991,0,0.01,1
+IRN,Iran,1992,0,0.0,1
+IRN,Iran,1993,1,0.01,1
+IRN,Iran,1994,0,0.01,1
+IRN,Iran,1995,0,0.01,1
+IRQ,Iraq,1991,0,0.09,1
+IRQ,Iraq,1992,1,0.05,1
+IRQ,Iraq,1993,1,0.26,1
+IRQ,Iraq,1994,0,0.12,1
+IRQ,Iraq,1995,1,0.1,1
+IRL,Ireland,1991,0,0.0,1
+IRL,Ireland,1992,0,0.0,1
+IRL,Ireland,1993,0,0.0,1
+IRL,Ireland,1994,0,0.0,1
+IRL,Ireland,1995,0,0.01,1
+ISR,Israel,1995,0,0.05,1
+ITA,Italy,1992,0,0.0,1
+ITA,Italy,1993,0,0.0,1
+ITA,Italy,1994,0,0.01,1
+ITA,Italy,1995,0,0.0,1
+JAM,Jamaica,1991,0,0.04,1
+JAM,Jamaica,1992,0,0.05,1
+JAM,Jamaica,1993,0,0.03,1
+JAM,Jamaica,1994,0,0.04,1
+JAM,Jamaica,1995,0,0.03,1
+JPN,Japan,1991,0,0.01,1
+JPN,Japan,1992,0,0.02,1
+JPN,Japan,1993,0,0.0,1
+JPN,Japan,1994,0,0.0,1
+JPN,Japan,1995,0,0.0,1
+JOR,Jordan,1991,1,0.19,1
+JOR,Jordan,1992,0,0.1,1
+JOR,Jordan,1993,0,0.22,1
+JOR,Jordan,1994,0,0.16,1
+JOR,Jordan,1995,0,0.14,1
+KAZ,Kazakhstan,1994,0,0.02,1
+KAZ,Kazakhstan,1995,0,0.0,1
+KAZ,Kazakstan,1992,0,0.19,1
+KEN,Kenya,1991,1,0.0,1
+KEN,Kenya,1992,0,0.0,1
+KEN,Kenya,1993,1,0.02,1
+KEN,Kenya,1994,0,0.0,1
+KEN,Kenya,1995,0,0.0,1
+KWT,Kuwait,1992,0,0.12,1
+KWT,Kuwait,1993,0,0.17,1
+KWT,Kuwait,1994,0,0.27,1
+KWT,Kuwait,1995,0,0.27,1
+KGZ,Kyrgyzstan,1992,0,0.21,1
+KGZ,Kyrgyzstan,1994,0,0.0,1
+KGZ,Kyrgyzstan,1995,0,0.02,1
+LAO,Laos,1991,0,0.0,1
+LAO,Laos,1992,0,0.0,1
+LAO,Laos,1993,0,0.0,1
+LAO,Laos,1994,0,0.0,1
+LAO,Laos,1995,0,0.0,1
+LVA,Latvia,1995,0,0.0,1
+LBN,Lebanon,1991,0,0.19,1
+LBN,Lebanon,1992,0,0.24,1
+LBN,Lebanon,1993,0,0.2,1
+LBN,Lebanon,1994,0,0.17,1
+LBN,Lebanon,1995,0,0.16,1
+LTU,Lithuania,1995,0,0.0,1
+MKD,Macedonia,1992,0,0.0,1
+MKD,Macedonia,1993,0,0.0,1
+MKD,Macedonia,1994,0,0.0,1
+MKD,Macedonia,1995,0,0.0,1
+MYS,Malaysia,1991,0,0.01,1
+MYS,Malaysia,1992,0,0.01,1
+MYS,Malaysia,1993,0,0.01,1
+MYS,Malaysia,1994,0,0.01,1
+MYS,Malaysia,1995,0,0.01,1
+MLI,Mali,1991,0,0.0,1
+MLI,Mali,1992,0,0.01,1
+MLI,Mali,1993,0,0.0,1
+MLI,Mali,1994,0,0.0,1
+MLI,Mali,1995,0,0.01,1
+MRT,Mauritania,1991,0,0.01,1
+MRT,Mauritania,1992,0,0.01,1
+MRT,Mauritania,1993,0,0.0,1
+MRT,Mauritania,1994,0,0.01,1
+MRT,Mauritania,1995,0,0.0,1
+MEX,Mexico,1991,0,0.0,1
+MEX,Mexico,1992,0,0.02,1
+MEX,Mexico,1993,0,0.0,1
+MEX,Mexico,1994,0,0.0,1
+MEX,Mexico,1995,0,0.0,1
+MDA,Moldova,1995,0,0.01,1
+MNG,Mongolia,1991,0,0.12,1
+MNG,Mongolia,1992,0,0.03,1
+MNG,Mongolia,1993,0,0.02,1
+MNG,Mongolia,1994,0,0.02,1
+MNG,Mongolia,1995,0,0.05,1
+MAR,Morocco,1991,0,0.02,1
+MAR,Morocco,1992,0,0.0,1
+MAR,Morocco,1993,0,0.0,1
+MAR,Morocco,1994,0,0.0,1
+MAR,Morocco,1995,0,0.02,1
+MOZ,Mozambique,1991,0,0.03,1
+MOZ,Mozambique,1992,0,0.15,1
+MOZ,Mozambique,1993,0,0.11,1
+MOZ,Mozambique,1994,0,0.02,1
+MOZ,Mozambique,1995,0,0.07,1
+NAM,Namibia,1991,0,0.0,1
+NAM,Namibia,1992,0,0.03,1
+NAM,Namibia,1993,0,0.0,1
+NAM,Namibia,1994,0,0.08,1
+NAM,Namibia,1995,0,0.04,1
+NPL,Nepal,1991,0,0.0,1
+NPL,Nepal,1992,0,0.1,1
+NPL,Nepal,1993,0,0.0,1
+NPL,Nepal,1994,0,0.0,1
+NPL,Nepal,1995,0,0.0,1
+NLD,Netherlands,1991,0,0.21,1
+NLD,Netherlands,1992,0,0.22,1
+NLD,Netherlands,1993,0,0.23,1
+NLD,Netherlands,1994,0,0.23,1
+NLD,Netherlands,1995,0,0.23,1
+NIC,Nicaragua,1991,0,0.02,1
+NIC,Nicaragua,1992,0,0.02,1
+NIC,Nicaragua,1993,0,0.0,1
+NIC,Nicaragua,1994,0,0.02,1
+NIC,Nicaragua,1995,0,0.0,1
+NER,Niger,1991,0,0.0,1
+NER,Niger,1992,0,0.0,1
+NER,Niger,1993,0,0.0,1
+NER,Niger,1994,0,0.0,1
+NER,Niger,1995,0,0.0,1
+NGA,Nigeria,1991,0,0.09,1
+NGA,Nigeria,1992,1,0.24,1
+NGA,Nigeria,1993,0,0.04,1
+NGA,Nigeria,1994,0,0.02,1
+NGA,Nigeria,1995,0,0.02,1
+NOR,Norway,1991,0,0.02,1
+NOR,Norway,1992,0,0.01,1
+NOR,Norway,1993,0,0.0,1
+NOR,Norway,1994,0,0.01,1
+NOR,Norway,1995,0,0.0,1
+OMN,Oman,1991,0,0.02,1
+OMN,Oman,1992,0,0.02,1
+OMN,Oman,1993,0,0.02,1
+OMN,Oman,1994,0,0.02,1
+OMN,Oman,1995,0,0.02,1
+PAK,Pakistan,1991,0,0.0,1
+PAK,Pakistan,1992,0,0.0,1
+PAK,Pakistan,1993,0,0.02,1
+PAK,Pakistan,1994,0,0.0,1
+PAK,Pakistan,1995,0,0.01,1
+PSE,Palestine,1994,0,0.02,1
+PSE,Palestine,1995,0,0.04,1
+PNG,Papua New Guinea,1991,0,0.0,1
+PNG,Papua New Guinea,1992,0,0.0,1
+PNG,Papua New Guinea,1993,0,0.0,1
+PNG,Papua New Guinea,1994,0,0.0,1
+PNG,Papua New Guinea,1995,0,0.02,1
+PRY,Paraguay,1991,0,0.08,1
+PRY,Paraguay,1992,0,0.1,1
+PRY,Paraguay,1993,1,0.1,1
+PRY,Paraguay,1994,0,0.12,1
+PRY,Paraguay,1995,0,0.14,1
+PER,Peru,1991,0,0.0,1
+PER,Peru,1992,0,0.0,1
+PER,Peru,1993,0,0.0,1
+PER,Peru,1994,0,0.0,1
+PER,Peru,1995,1,0.01,1
+PHL,Philippines,1991,0,0.01,1
+PHL,Philippines,1992,0,0.0,1
+PHL,Philippines,1993,0,0.0,1
+PHL,Philippines,1994,0,0.0,1
+PHL,Philippines,1995,0,0.0,1
+POL,Poland,1995,0,0.0,1
+PRT,Portugal,1991,0,0.0,1
+PRT,Portugal,1992,0,0.0,1
+PRT,Portugal,1993,0,0.0,1
+PRT,Portugal,1994,0,0.0,1
+PRT,Portugal,1995,0,0.0,1
+PRI,Puerto Rico,1991,0,0.01,1
+PRI,Puerto Rico,1992,0,0.01,1
+PRI,Puerto Rico,1993,0,0.0,1
+PRI,Puerto Rico,1994,0,0.0,1
+PRI,Puerto Rico,1995,0,0.0,1
+KOR,Republic of Korea,1991,0,0.0,1
+KOR,Republic of Korea,1992,0,0.01,1
+KOR,Republic of Korea,1993,0,0.14,1
+ROU,Romania,1991,0,0.01,1
+ROU,Romania,1992,0,0.09,1
+ROU,Romania,1993,0,0.01,1
+ROU,Romania,1994,0,0.16,1
+ROU,Romania,1995,0,0.0,1
+RUS,Russia,1992,1,0.13,1
+RUS,Russia,1993,0,0.01,1
+RUS,Russia,1994,0,0.09,1
+RUS,Russia,1995,1,0.04,1
+RWA,Rwanda,1991,0,0.08,1
+RWA,Rwanda,1992,0,0.03,1
+RWA,Rwanda,1993,0,0.07,1
+RWA,Rwanda,1994,0,0.23,1
+RWA,Rwanda,1995,0,0.05,1
+SAU,Saudi Arabia,1991,0,0.0,1
+SAU,Saudi Arabia,1992,0,0.03,1
+SAU,Saudi Arabia,1993,0,0.0,1
+SAU,Saudi Arabia,1994,0,0.0,1
+SAU,Saudi Arabia,1995,0,0.0,1
+SEN,Senegal,1991,0,0.01,1
+SEN,Senegal,1992,0,0.04,1
+SEN,Senegal,1993,0,0.02,1
+SEN,Senegal,1994,0,0.0,1
+SEN,Senegal,1995,0,0.01,1
+SGP,Singapore,1991,0,0.0,1
+SVN,Slovenia,1995,0,0.01,1
+ZAF,South Africa,1991,0,0.04,1
+ZAF,South Africa,1992,0,0.05,1
+ZAF,South Africa,1994,1,0.08,1
+ZAF,South Africa,1995,1,0.04,1
+ZAF,South Africa (Namibia),1993,0,0.01,1
+ZWE,Southern Rhodesia,1991,0,0.02,1
+ZWE,Southern Rhodesia,1993,0,0.0,1
+ZWE,Southern Rhodesia,1994,0,0.0,1
+ESP,Spain,1991,0,0.01,1
+ESP,Spain,1992,0,0.02,1
+ESP,Spain,1993,0,0.01,1
+ESP,Spain,1994,0,0.01,1
+ESP,Spain,1995,0,0.01,1
+LKA,Sri Lanka,1991,0,0.0,1
+LKA,Sri Lanka,1992,0,0.0,1
+LKA,Sri Lanka,1993,0,0.0,1
+LKA,Sri Lanka,1994,0,0.0,1
+LKA,Sri Lanka,1995,0,0.0,1
+SDN,Sudan,1991,0,0.08,1
+SDN,Sudan,1992,0,0.07,1
+SDN,Sudan,1993,0,0.08,1
+SDN,Sudan,1994,0,0.07,1
+SDN,Sudan,1995,0,0.11,1
+SWZ,Swaziland,1991,0,0.0,1
+SWZ,Swaziland,1992,0,0.04,1
+SWZ,Swaziland,1993,0,0.01,1
+SWZ,Swaziland,1994,0,0.0,1
+SWZ,Swaziland,1995,0,0.06,1
+SWE,Sweden,1991,0,0.2,1
+SWE,Sweden,1993,0,0.01,1
+CHE,Switzerland,1991,0,0.21,1
+CHE,Switzerland,1992,0,0.0,1
+CHE,Switzerland,1993,0,0.0,1
+CHE,Switzerland,1994,0,0.0,1
+CHE,Switzerland (Company),1995,0,0.01,1
+SYR,Syria,1991,0,0.17,1
+SYR,Syria,1992,0,0.02,1
+SYR,Syria,1993,0,0.03,1
+SYR,Syria,1994,0,0.08,1
+SYR,Syria,1995,1,0.07,1
+TJK,Tajikistan,1993,0,0.04,1
+TJK,Tajikistan,1994,0,0.13,1
+TJK,Tajikistan,1995,0,0.06,1
+TZA,Tanzania,1991,0,0.0,1
+TZA,Tanzania,1992,0,0.0,1
+TZA,Tanzania,1993,0,0.0,1
+TZA,Tanzania,1994,0,0.0,1
+TZA,Tanzania,1995,0,0.04,1
+THA,Thailand,1991,0,0.02,1
+THA,Thailand,1992,0,0.03,1
+THA,Thailand,1993,0,0.01,1
+THA,Thailand,1994,0,0.01,1
+THA,Thailand,1995,0,0.04,1
+TGO,Togo,1991,0,0.0,1
+TGO,Togo,1992,0,0.01,1
+TGO,Togo,1993,0,0.02,1
+TGO,Togo,1994,0,0.01,1
+TGO,Togo,1995,0,0.02,1
+TUN,Tunisia,1991,0,0.0,1
+TUN,Tunisia,1992,0,0.03,1
+TUN,Tunisia,1993,0,0.0,1
+TUN,Tunisia,1994,0,0.02,1
+TUN,Tunisia,1995,0,0.0,1
+TUR,Turkey,1991,0,0.0,1
+TUR,Turkey,1992,1,0.0,1
+TUR,Turkey,1993,1,0.02,1
+TUR,Turkey,1994,0,0.0,1
+TUR,Turkey,1995,1,0.05,1
+TKM,Turkmenistan,1992,1,0.27,1
+TKM,Turkmenistan,1993,0,0.42,1
+TKM,Turkmenistan,1994,0,0.28,1
+TKM,Turkmenistan,1995,0,0.04,1
+UGA,Uganda,1991,0,0.08,1
+UGA,Uganda,1992,0,0.0,1
+UGA,Uganda,1993,0,0.06,1
+UGA,Uganda,1994,0,0.0,1
+UGA,Uganda,1995,0,0.01,1
+UKR,Ukraine,1992,0,0.0,1
+UKR,Ukraine,1993,0,0.0,1
+UKR,Ukraine,1994,0,0.06,1
+UKR,Ukraine,1995,0,0.01,1
+USA,United States,1991,0,0.03,1
+USA,United States,1992,0,0.02,1
+USA,United States,1993,0,0.03,1
+USA,United States,1994,0,0.33,1
+USA,United States,1995,0,0.03,1
+URY,Uruguay,1991,0,0.0,1
+URY,Uruguay,1992,0,0.0,1
+URY,Uruguay,1993,0,0.0,1
+URY,Uruguay,1994,0,0.01,1
+URY,Uruguay,1995,0,0.0,1
+VNM,Vietnam,1991,0,0.03,1
+VNM,Vietnam,1992,0,0.03,1
+VNM,Vietnam,1993,0,0.0,1
+VNM,Vietnam,1994,0,0.03,1
+VNM,Vietnam,1995,0,0.01,1
+ZMB,Zambia,1994,0,0.01,1
+ZMB,Zambia,1995,0,0.03,1
+ZWE,Zimbabwe,1992,0,0.15,1
+ZWE,Zimbabwe,1995,0,0.08,1
+COG,the Republic of Congo,1991,0,0.02,1
+COG,the Republic of Congo,1992,0,0.02,1
+COG,the Republic of Congo,1993,0,0.02,1
+COG,the Republic of Congo,1994,0,0.02,1
+COG,the Republic of Congo,1995,0,0.04,1
+ALB,Albania,1997,0,0.08,2
+ALB,Albania,1998,0,0.0,2
+ALB,Albania,1999,0,0.07,2
+ALB,Albania,2000,0,0.0,2
+DZA,Algeria,1997,0,0.0,2
+DZA,Algeria,1998,0,0.01,2
+DZA,Algeria,1999,0,0.0,2
+DZA,Algeria,2000,0,0.0,2
+DZA,Algeria,2001,1,0.02,2
+AGO,Angola,2001,0,0.17,2
+ARG,Argentina,1997,0,0.0,2
+ARG,Argentina,1998,0,0.01,2
+ARG,Argentina,1999,0,0.01,2
+ARG,Argentina,2000,0,0.02,2
+ARG,Argentina,2001,0,0.0,2
+ARM,Armenia,1997,0,0.07,2
+ARM,Armenia,1998,0,0.03,2
+ARM,Armenia,1999,0,0.03,2
+ARM,Armenia,2000,0,0.03,2
+ARM,Armenia,2001,0,0.05,2
+AUS,Australia,1997,0,0.0,2
+AUS,Australia,1998,0,0.0,2
+AUS,Australia,1999,0,0.0,2
+AUS,Australia,2000,0,0.0,2
+AUS,Australia,2001,0,0.0,2
+AUT,Austria,1997,0,0.08,2
+AUT,Austria,1998,0,0.0,2
+AUT,Austria,1999,0,0.0,2
+AUT,Austria,2000,0,0.0,2
+AUT,Austria,2001,0,0.02,2
+AZE,Azerbaijan,1997,0,0.05,2
+AZE,Azerbaijan,1998,0,0.02,2
+AZE,Azerbaijan,1999,0,0.02,2
+AZE,Azerbaijan,2000,0,0.01,2
+AZE,Azerbaijan,2001,0,0.01,2
+BGD,Bangladesh,1998,0,0.11,2
+BGD,Bangladesh,1999,1,0.15,2
+BGD,Bangladesh,2000,0,0.17,2
+BLR,Belarus,1998,0,0.0,2
+BLR,Belarus,1999,0,0.01,2
+BLR,Belarus,2000,0,0.0,2
+BLR,Belarus,2001,0,0.0,2
+BEL,Belgium,2000,0,0.05,2
+BEL,Belgium,2001,0,0.25,2
+BEN,Benin,1999,0,0.0,2
+BTN,Bhutan,1997,0,0.0,2
+BTN,Bhutan,1998,0,0.0,2
+BTN,Bhutan,1999,0,0.0,2
+BTN,Bhutan,2000,0,0.0,2
+BTN,Bhutan,2001,0,0.0,2
+GNB,Bissau,1997,0,0.0,2
+GNB,Bissau,1998,0,0.0,2
+GNB,Bissau,1999,0,0.0,2
+GNB,Bissau,2000,0,0.01,2
+GNB,Bissau,2001,0,0.0,2
+BOL,Bolivia,1997,0,0.0,2
+BOL,Bolivia,1998,0,0.01,2
+BOL,Bolivia,1999,0,0.0,2
+BOL,Bolivia,2000,1,0.0,2
+BOL,Bolivia,2001,0,0.0,2
+BIH,Bosnia and Herzegovina,1997,0,0.0,2
+BIH,Bosnia and Herzegovina,1998,0,0.0,2
+BIH,Bosnia and Herzegovina,1999,0,0.0,2
+BIH,Bosnia and Herzegovina,2000,0,0.0,2
+BIH,Bosnia and Herzegovina,2001,0,0.04,2
+BWA,Botswana,1997,0,0.01,2
+BWA,Botswana,1998,0,0.01,2
+BWA,Botswana,1999,1,0.04,2
+BWA,Botswana,2001,0,0.01,2
+BRA,Brazil,1997,0,0.01,2
+BRA,Brazil,1998,0,0.02,2
+BRA,Brazil,1999,0,0.0,2
+BRA,Brazil,2000,0,0.0,2
+BRA,Brazil,2001,0,0.01,2
+BGR,Bulgaria,1997,0,0.01,2
+BGR,Bulgaria,1998,0,0.0,2
+BGR,Bulgaria,2000,0,0.3,2
+BGR,Bulgaria,2001,0,0.01,2
+BFA,Burkina Faso,1997,0,0.0,2
+BFA,Burkina Faso,1998,0,0.0,2
+BFA,Burkina Faso,1999,0,0.0,2
+BFA,Burkina Faso,2000,0,0.0,2
+BFA,Burkina Faso,2001,0,0.0,2
+BDI,Burundi,1997,0,0.0,2
+BDI,Burundi,1998,0,0.0,2
+BDI,Burundi,2000,0,0.03,2
+BDI,Burundi,2001,0,0.02,2
+KHM,Cambodia,1997,0,0.0,2
+KHM,Cambodia,1998,0,0.0,2
+KHM,Cambodia,1999,0,0.0,2
+KHM,Cambodia,2000,0,0.0,2
+CMR,Cameroon,1997,0,0.0,2
+CMR,Cameroon,1998,0,0.0,2
+CMR,Cameroon,1999,0,0.0,2
+CMR,Cameroon,2000,0,0.0,2
+CMR,Cameroon,2001,0,0.0,2
+CAN,Canada,1997,0,0.02,2
+CAN,Canada,1998,0,0.0,2
+CAN,Canada,1999,0,0.0,2
+CAN,Canada,2000,0,0.02,2
+CAN,Canada,2001,0,0.13,2
+CAF,Central African Republic,2000,0,0.0,2
+TCD,Chad,1997,0,0.0,2
+TCD,Chad,1998,0,0.0,2
+TCD,Chad,1999,0,0.01,2
+TCD,Chad,2000,0,0.01,2
+TCD,Chad,2001,0,0.0,2
+CHL,Chile,1997,0,0.03,2
+CHL,Chile,1998,0,0.04,2
+CHL,Chile,1999,0,0.04,2
+CHL,Chile,2000,0,0.03,2
+CHL,Chile,2001,0,0.03,2
+CHN,China,1997,0,0.13,2
+CHN,China,1998,0,0.11,2
+CHN,China,1999,1,0.05,2
+CHN,China,2000,1,0.05,2
+CHN,China,2001,1,0.06,2
+COL,Colombia,2001,1,0.01,2
+COL,Columbia,1997,0,0.0,2
+COL,Columbia,1998,0,0.0,2
+COL,Columbia,1999,0,0.0,2
+COL,Columbia,2000,0,0.01,2
+COD,Congo Democratic Republic of the (Brazzaville),1997,0,0.0,2
+COD,Congo Democratic Republic of the (Brazzaville),1998,0,0.0,2
+COD,Congo Democratic Republic of the (Brazzaville),2001,0,0.02,2
+CRI,Costa Rica,1997,0,0.0,2
+CRI,Costa Rica,1998,0,0.0,2
+CRI,Costa Rica,1999,0,0.0,2
+CRI,Costa Rica,2000,0,0.0,2
+CRI,Costa Rica,2001,0,0.0,2
+CIV,Cote D’Ivoire,1997,0,0.0,2
+CIV,Cote D’Ivoire,1998,0,0.0,2
+CIV,Cote D’Ivoire,2000,0,0.0,2
+CIV,Cote D’Ivoire,2001,0,0.0,2
+HRV,Croatia,1997,0,0.01,2
+HRV,Croatia,1998,0,0.01,2
+HRV,Croatia,1999,0,0.0,2
+HRV,Croatia,2000,0,0.03,2
+HRV,Croatia,2001,0,0.04,2
+CUB,Cuba,1997,0,0.04,2
+CUB,Cuba,1998,0,0.03,2
+CUB,Cuba,1999,0,0.04,2
+CUB,Cuba,2000,0,0.02,2
+CUB,Cuba,2001,0,0.02,2
+CYP,Cyprus,1997,0,0.03,2
+CYP,Cyprus,1998,0,0.03,2
+CYP,Cyprus,1999,0,0.08,2
+CYP,Cyprus,2000,0,0.03,2
+CYP,Cyprus,2001,0,0.06,2
+CZE,Czech Republic,1999,0,0.17,2
+CZE,Czech Republic,2000,0,0.16,2
+CZE,Czech Republic,2001,0,0.05,2
+CZE,Czechoslovakia (Czech),1997,0,0.0,2
+CZE,Czechoslovakia (Czech),1998,0,0.0,2
+DNK,Denmark,2001,0,0.0,2
+DOM,Dominican Republic,1997,0,0.0,2
+DOM,Dominican Republic,1998,0,0.0,2
+DOM,Dominican Republic,1999,0,0.0,2
+DOM,Dominican Republic,2000,0,0.0,2
+DOM,Dominican Republic,2001,0,0.0,2
+TLS,East Timor,2000,0,0.0,2
+TLS,East Timor,2001,0,0.0,2
+ECU,Ecuador,1997,0,0.0,2
+ECU,Ecuador,1998,0,0.01,2
+ECU,Ecuador,1999,0,0.0,2
+ECU,Ecuador,2000,0,0.0,2
+ECU,Ecuador,2001,0,0.0,2
+EGY,Egypt,1997,0,0.01,2
+EGY,Egypt,1998,0,0.03,2
+EGY,Egypt,1999,0,0.13,2
+EGY,Egypt,2000,0,0.03,2
+EGY,Egypt,2001,0,0.02,2
+SLV,El Salvador,1997,0,0.01,2
+SLV,El Salvador,1998,0,0.01,2
+SLV,El Salvador,1999,0,0.01,2
+SLV,El Salvador,2000,0,0.01,2
+SLV,El Salvador,2001,0,0.01,2
+ERI,Eritrea,1997,0,0.0,2
+ERI,Eritrea,1998,0,0.0,2
+ERI,Eritrea,1999,0,0.0,2
+ERI,Eritrea,2000,0,0.0,2
+ERI,Eritrea,2001,0,0.0,2
+EST,Estonia,1997,0,0.0,2
+EUU,European Union,2001,0,0.0,2
+FIN,Finland,1997,0,0.0,2
+FIN,Finland,1998,0,0.0,2
+FIN,Finland,1999,0,0.0,2
+FIN,Finland,2000,0,0.0,2
+FIN,Finland,2001,0,0.0,2
+FRA,France,1997,0,0.03,2
+FRA,France,1998,0,0.01,2
+FRA,France,1999,0,0.01,2
+FRA,France,2000,0,0.0,2
+FRA,France,2001,0,0.0,2
+GMB,Gambia,1997,0,0.0,2
+GMB,Gambia,1998,0,0.01,2
+GMB,Gambia,1999,0,0.0,2
+GMB,Gambia,2000,0,0.01,2
+GMB,Gambia,2001,0,0.0,2
+GEO,Georgia,1997,1,0.03,2
+GEO,Georgia,1998,0,0.02,2
+GEO,Georgia,1999,0,0.01,2
+GEO,Georgia,2000,0,0.01,2
+GEO,Georgia,2001,0,0.01,2
+DEU,Germany,1997,0,0.01,2
+DEU,Germany,1998,0,0.0,2
+DEU,Germany,1999,0,0.01,2
+DEU,Germany,2000,0,0.0,2
+DEU,Germany,2001,0,0.01,2
+GHA,Ghana,1997,0,0.0,2
+GHA,Ghana,1998,0,0.0,2
+GHA,Ghana,1999,0,0.0,2
+GHA,Ghana,2000,0,0.0,2
+GHA,Ghana,2001,0,0.0,2
+GBR,Great Britain,1997,0,0.0,2
+GBR,Great Britain,1998,0,0.0,2
+GBR,Great Britain,1999,0,0.0,2
+GBR,Great Britain,2000,0,0.0,2
+GBR,Great Britain,2001,0,0.0,2
+GRC,Greece,1997,0,0.0,2
+GRC,Greece,1998,0,0.0,2
+GRC,Greece,1999,0,0.03,2
+GRC,Greece,2000,0,0.0,2
+GRC,Greece,2001,0,0.0,2
+GTM,Guatemala,1997,0,0.06,2
+GTM,Guatemala,1998,0,0.01,2
+GTM,Guatemala,1999,0,0.01,2
+GTM,Guatemala,2000,0,0.01,2
+GTM,Guatemala,2001,0,0.01,2
+GIN,Guinea,1997,0,0.0,2
+GIN,Guinea,1998,0,0.0,2
+GIN,Guinea,1999,0,0.0,2
+GIN,Guinea,2000,0,0.0,2
+GIN,Guinea,2001,0,0.0,2
+GUY,Guyana,1997,0,0.0,2
+GUY,Guyana,1998,0,0.0,2
+GUY,Guyana,1999,0,0.0,2
+GUY,Guyana,2000,0,0.0,2
+GUY,Guyana,2001,0,0.0,2
+HTI,Haiti,1997,0,0.0,2
+HTI,Haiti,1998,0,0.01,2
+HTI,Haiti,1999,0,0.0,2
+HTI,Haiti,2000,0,0.0,2
+HTI,Haiti,2001,0,0.01,2
+HND,Honduras,1997,0,0.0,2
+HND,Honduras,1998,0,0.0,2
+HND,Honduras,1999,0,0.01,2
+HND,Honduras,2000,0,0.0,2
+HND,Honduras,2001,0,0.0,2
+HUN,Hungary,1997,0,0.03,2
+HUN,Hungary,1998,1,0.04,2
+HUN,Hungary,1999,0,0.04,2
+HUN,Hungary,2000,0,0.06,2
+HUN,Hungary,2001,0,0.09,2
+IND,India,1997,0,0.17,2
+IND,India,1998,0,0.16,2
+IND,India,1999,1,0.13,2
+IND,India,2000,0,0.21,2
+IND,India,2001,1,0.23,2
+IDN,Indonesia,1997,0,0.0,2
+IDN,Indonesia,1998,0,0.0,2
+IDN,Indonesia,1999,0,0.0,2
+IDN,Indonesia,2000,0,0.0,2
+IDN,Indonesia,2001,0,0.0,2
+IRN,Iran,1997,0,0.0,2
+IRN,Iran,1998,0,0.0,2
+IRN,Iran,1999,0,0.01,2
+IRN,Iran,2000,0,0.03,2
+IRN,Iran,2001,0,0.04,2
+IRQ,Iraq,1997,0,0.09,2
+IRQ,Iraq,1998,1,0.15,2
+IRQ,Iraq,1999,0,0.06,2
+IRQ,Iraq,2000,0,0.24,2
+IRQ,Iraq,2001,0,0.31,2
+IRL,Ireland,1997,0,0.0,2
+IRL,Ireland,1998,0,0.0,2
+IRL,Ireland,1999,0,0.0,2
+IRL,Ireland,2000,0,0.0,2
+IRL,Ireland,2001,0,0.0,2
+ISR,Israel,1997,0,0.04,2
+ISR,Israel,1998,1,0.05,2
+ISR,Israel,1999,1,0.07,2
+ISR,Israel,2000,0,0.1,2
+ISR,Israel,2001,0,0.27,2
+ITA,Italy,1997,0,0.01,2
+ITA,Italy,1998,0,0.01,2
+ITA,Italy,1999,0,0.01,2
+ITA,Italy,2000,0,0.01,2
+ITA,Italy,2001,0,0.01,2
+JAM,Jamaica,1997,0,0.03,2
+JAM,Jamaica,1998,0,0.0,2
+JAM,Jamaica,1999,0,0.0,2
+JAM,Jamaica,2000,0,0.03,2
+JAM,Jamaica,2001,0,0.0,2
+JPN,Japan,1997,0,0.0,2
+JPN,Japan,1998,0,0.0,2
+JPN,Japan,1999,0,0.0,2
+JPN,Japan,2000,0,0.0,2
+JPN,Japan,2001,0,0.0,2
+JOR,Jordan,1997,0,0.07,2
+JOR,Jordan,1998,0,0.05,2
+JOR,Jordan,1999,1,0.05,2
+JOR,Jordan,2000,0,0.02,2
+JOR,Jordan,2001,0,0.12,2
+KAZ,Kazakhstan,1997,0,0.02,2
+KAZ,Kazakhstan,1998,0,0.04,2
+KAZ,Kazakhstan,1999,1,0.0,2
+KAZ,Kazakstan,2000,0,0.01,2
+KAZ,Kazakstan,2001,0,0.01,2
+KEN,Kenya,1997,0,0.0,2
+KEN,Kenya,1998,0,0.0,2
+KEN,Kenya,1999,0,0.11,2
+KEN,Kenya,2000,1,0.02,2
+KEN,Kenya,2001,1,0.39,2
+KWT,Kuwait,1997,0,0.27,2
+KWT,Kuwait,1998,0,0.23,2
+KWT,Kuwait,1999,0,0.28,2
+KWT,Kuwait,2000,0,0.27,2
+KWT,Kuwait,2001,0,0.13,2
+KGZ,Kyrgystan,1997,0,0.02,2
+KGZ,Kyrgystan,1999,0,0.03,2
+KGZ,Kyrgyzstan,2000,0,0.0,2
+KGZ,Kyrgyzstan,2001,1,0.07,2
+LAO,Laos,1997,0,0.02,2
+LAO,Laos,1998,0,0.0,2
+LAO,Laos,1999,0,0.0,2
+LAO,Laos,2000,0,0.0,2
+LAO,Laos,2001,0,0.05,2
+LVA,Latvia,1997,0,0.0,2
+LVA,Latvia,1998,0,0.0,2
+LVA,Latvia,1999,0,0.0,2
+LVA,Latvia,2000,0,0.0,2
+LVA,Latvia,2001,0,0.0,2
+LBN,Lebanon,1997,0,0.06,2
+LBN,Lebanon,1998,0,0.05,2
+LBN,Lebanon,1999,0,0.04,2
+LBN,Lebanon,2000,0,0.07,2
+LBN,Lebanon,2001,0,0.04,2
+LBY,Libya,1999,0,0.0,2
+LBY,Libya,2000,0,0.0,2
+LBY,Libya,2001,0,0.0,2
+LTU,Lithuania,1997,0,0.0,2
+LTU,Lithuania,1998,0,0.0,2
+LTU,Lithuania,1999,0,0.0,2
+LTU,Lithuania,2000,0,0.0,2
+LTU,Lithuania,2001,0,0.0,2
+LUX,Luxembourg,2000,0,0.01,2
+LUX,Luxembourg,2001,0,0.0,2
+MKD,Macedonia,1997,0,0.01,2
+MKD,Macedonia,1998,0,0.05,2
+MKD,Macedonia,1999,0,0.01,2
+MKD,Macedonia,2000,0,0.0,2
+MKD,Macedonia,2001,1,0.03,2
+MYS,Malaysia,1997,0,0.0,2
+MYS,Malaysia,1998,0,0.0,2
+MYS,Malaysia,1999,0,0.0,2
+MYS,Malaysia,2000,0,0.0,2
+MYS,Malaysia,2001,0,0.0,2
+MLI,Mali,1997,0,0.01,2
+MLI,Mali,1998,0,0.0,2
+MLI,Mali,1999,1,0.0,2
+MLI,Mali,2000,0,0.01,2
+MLI,Mali,2001,0,0.02,2
+MRT,Mauritania,1997,1,0.22,2
+MRT,Mauritania,1998,0,0.01,2
+MRT,Mauritania,1999,1,0.02,2
+MRT,Mauritania,2000,1,0.02,2
+MRT,Mauritania,2001,0,0.08,2
+MEX,Mexico,1997,0,0.0,2
+MEX,Mexico,1998,0,0.01,2
+MEX,Mexico,1999,0,0.01,2
+MEX,Mexico,2000,0,0.01,2
+MEX,Mexico,2001,1,0.03,2
+MDA,Moldova,1997,0,0.0,2
+MDA,Moldova,1998,0,0.0,2
+MDA,Moldova,1999,0,0.0,2
+MDA,Moldova,2000,0,0.45,2
+MDA,Moldova,2001,0,0.02,2
+MNG,Mongolia,1997,0,0.03,2
+MNG,Mongolia,1998,0,0.0,2
+MNG,Mongolia,1999,0,0.0,2
+MNG,Mongolia,2000,0,0.01,2
+MNG,Mongolia,2001,0,0.01,2
+MAR,Morocco,1997,0,0.0,2
+MAR,Morocco,1998,0,0.03,2
+MAR,Morocco,1999,0,0.03,2
+MAR,Morocco,2000,0,0.04,2
+MAR,Morocco,2001,0,0.26,2
+MOZ,Mozambique,1997,0,0.1,2
+MOZ,Mozambique,1998,0,0.11,2
+MOZ,Mozambique,1999,0,0.03,2
+MOZ,Mozambique,2000,0,0.04,2
+MOZ,Mozambique,2001,0,0.04,2
+NAM,Namibia,1997,0,0.0,2
+NAM,Namibia,1998,0,0.03,2
+NAM,Namibia,1999,1,0.05,2
+NAM,Namibia,2000,0,0.01,2
+NAM,Namibia,2001,0,0.04,2
+NPL,Nepal,1997,0,0.0,2
+NPL,Nepal,1998,0,0.0,2
+NPL,Nepal,1999,0,0.0,2
+NPL,Nepal,2000,0,0.08,2
+NPL,Nepal,2001,0,0.0,2
+NLD,Netherlands,1997,0,0.09,2
+NLD,Netherlands,1998,0,0.0,2
+NLD,Netherlands,1999,0,0.08,2
+NLD,Netherlands,2000,0,0.07,2
+NIC,Nicaragua,1997,0,0.0,2
+NIC,Nicaragua,1998,0,0.0,2
+NIC,Nicaragua,1999,0,0.0,2
+NIC,Nicaragua,2000,0,0.0,2
+NIC,Nicaragua,2001,0,0.0,2
+NER,Niger,1997,0,0.0,2
+NER,Niger,1998,0,0.02,2
+NER,Niger,1999,0,0.06,2
+NER,Niger,2000,0,0.02,2
+NER,Niger,2001,0,0.03,2
+NGA,Nigeria,1997,1,0.06,2
+NGA,Nigeria,1998,0,0.09,2
+NGA,Nigeria,1999,0,0.08,2
+NGA,Nigeria,2000,0,0.07,2
+NGA,Nigeria,2001,0,0.04,2
+NOR,Norway,1997,0,0.0,2
+NOR,Norway,1998,0,0.0,2
+NOR,Norway,1999,0,0.0,2
+NOR,Norway,2000,0,0.0,2
+NOR,Norway,2001,0,0.0,2
+OMN,Oman,1997,0,0.03,2
+OMN,Oman,1998,0,0.01,2
+OMN,Oman,1999,0,0.01,2
+OMN,Oman,2000,0,0.03,2
+OMN,Oman,2001,0,0.03,2
+PAK,Pakistan,1997,0,0.01,2
+PAK,Pakistan,1998,0,0.03,2
+PAK,Pakistan,1999,0,0.01,2
+PAK,Pakistan,2000,0,0.17,2
+PAK,Pakistan,2001,1,0.19,2
+PSE,Palestine,1997,0,0.03,2
+PSE,Palestine,1998,0,0.02,2
+PSE,Palestine,1999,0,0.03,2
+PSE,Palestine,2000,0,0.02,2
+PSE,Palestine,2001,0,0.04,2
+PNG,Papua New Guinea,1997,0,0.0,2
+PNG,Papua New Guinea,1998,0,0.0,2
+PNG,Papua New Guinea,1999,0,0.0,2
+PNG,Papua New Guinea,2000,0,0.01,2
+PNG,Papua New Guinea,2001,0,0.01,2
+PRY,Paraguay,1997,0,0.0,2
+PRY,Paraguay,1998,0,0.02,2
+PRY,Paraguay,1999,0,0.0,2
+PRY,Paraguay,2000,0,0.0,2
+PRY,Paraguay,2001,0,0.0,2
+PER,Peru,1997,0,0.01,2
+PER,Peru,1998,0,0.01,2
+PER,Peru,1999,0,0.01,2
+PER,Peru,2000,0,0.01,2
+PER,Peru,2001,0,0.01,2
+PHL,Philippines,1997,0,0.01,2
+PHL,Philippines,1998,0,0.01,2
+PHL,Philippines,1999,0,0.01,2
+PHL,Philippines,2000,0,0.01,2
+PHL,Philippines,2001,0,0.01,2
+POL,Poland,1997,0,0.0,2
+POL,Poland,1998,0,0.0,2
+POL,Poland,1999,0,0.0,2
+POL,Poland,2000,0,0.0,2
+POL,Poland,2001,0,0.02,2
+PRT,Portugal,1997,0,0.0,2
+PRT,Portugal,1998,0,0.0,2
+PRT,Portugal,1999,0,0.0,2
+PRT,Portugal,2000,0,0.0,2
+PRT,Portugal,2001,0,0.0,2
+PRI,Puerto Rico,1997,0,0.0,2
+PRI,Puerto Rico,1998,1,0.0,2
+PRI,Puerto Rico,1999,1,0.03,2
+PRI,Puerto Rico,2000,0,0.05,2
+PRI,Puerto Rico,2001,0,0.05,2
+QAT,Qatar,2000,0,0.13,2
+QAT,Qatar,2001,0,0.13,2
+KOR,Republic of Korea,1997,0,0.01,2
+KOR,Republic of Korea,1998,0,0.01,2
+KOR,Republic of Korea,2000,0,0.02,2
+KOR,Republic of Korea,2001,0,0.02,2
+ROU,Romania,1997,0,0.01,2
+ROU,Romania,1998,0,0.01,2
+ROU,Romania,1999,0,0.01,2
+ROU,Romania,2000,0,0.12,2
+ROU,Romania,2001,0,0.05,2
+RUS,Russia,1997,0,0.16,2
+RUS,Russia,1998,0,0.06,2
+RUS,Russia,1999,0,0.1,2
+RUS,Russia,2000,0,0.06,2
+RWA,Rwanda,1997,0,0.01,2
+RWA,Rwanda,1998,0,0.03,2
+RWA,Rwanda,1999,0,0.03,2
+RWA,Rwanda,2000,0,0.03,2
+RWA,Rwanda,2001,0,0.0,2
+SAU,Saudi Arabia,1997,0,0.05,2
+SAU,Saudi Arabia,1998,0,0.03,2
+SAU,Saudi Arabia,1999,0,0.04,2
+SAU,Saudi Arabia,2000,0,0.04,2
+SAU,Saudi Arabia,2001,0,0.01,2
+SEN,Senegal,1997,0,0.0,2
+SEN,Senegal,1998,0,0.0,2
+SEN,Senegal,1999,0,0.0,2
+SEN,Senegal,2000,1,0.03,2
+SEN,Senegal,2001,0,0.0,2
+SVK,Slovakia,1998,1,0.01,2
+SVK,Slovakia,1999,0,0.15,2
+SVK,Slovakia,2000,0,0.1,2
+SVK,Slovakia,2001,0,0.06,2
+SVN,Slovenia,1997,0,0.0,2
+SVN,Slovenia,1998,0,0.0,2
+SVN,Slovenia,1999,0,0.0,2
+SVN,Slovenia,2000,0,0.0,2
+SVN,Slovenia,2001,0,0.04,2
+ZAF,South Africa,1997,1,0.03,2
+ZAF,South Africa,1998,1,0.03,2
+ZAF,South Africa,1999,0,0.25,2
+ZAF,South Africa,2000,0,0.35,2
+ZAF,South Africa,2001,1,0.07,2
+ZWE,Southern Rhodesia,1999,0,0.0,2
+UZB,Soviet Union (Uzbekistan),2000,0,0.0,2
+ESP,Spain,1997,0,0.0,2
+ESP,Spain,1998,0,0.0,2
+ESP,Spain,1999,0,0.0,2
+ESP,Spain,2000,0,0.0,2
+ESP,Spain,2001,0,0.0,2
+LKA,Sri Lanka,1997,0,0.0,2
+LKA,Sri Lanka,1998,0,0.0,2
+LKA,Sri Lanka,1999,0,0.0,2
+LKA,Sri Lanka,2000,0,0.0,2
+LKA,Sri Lanka,2001,0,0.0,2
+SDN,Sudan,1997,0,0.05,2
+SDN,Sudan,1998,1,0.15,2
+SDN,Sudan,1999,0,0.12,2
+SDN,Sudan,2000,1,0.06,2
+SDN,Sudan,2001,0,0.03,2
+SWZ,Swaziland,1997,0,0.02,2
+SWZ,Swaziland,1998,0,0.01,2
+SWZ,Swaziland,1999,0,0.01,2
+SWZ,Swaziland,2000,0,0.02,2
+SWZ,Swaziland,2001,0,0.01,2
+SWE,Sweden,2001,0,0.0,2
+CHE,Switzerland,1997,0,0.0,2
+CHE,Switzerland,1998,0,0.0,2
+CHE,Switzerland,1999,0,0.0,2
+CHE,Switzerland,2000,0,0.0,2
+CHE,Switzerland,2001,0,0.0,2
+SYR,Syria,1997,0,0.09,2
+SYR,Syria,1998,1,0.18,2
+SYR,Syria,1999,0,0.12,2
+SYR,Syria,2000,0,0.34,2
+SYR,Syria,2001,0,0.35,2
+TJK,Tajikistan,1997,0,0.11,2
+TJK,Tajikistan,1998,0,0.07,2
+TJK,Tajikistan,1999,0,0.13,2
+TJK,Tajikistan,2000,0,0.06,2
+TJK,Tajikistan,2001,0,0.06,2
+TZA,Tanzania,1997,0,0.0,2
+TZA,Tanzania,1998,0,0.0,2
+TZA,Tanzania,1999,0,0.0,2
+TZA,Tanzania,2000,0,0.01,2
+TZA,Tanzania,2001,0,0.0,2
+THA,Thailand,1997,0,0.0,2
+THA,Thailand,1998,1,0.01,2
+THA,Thailand,1999,1,0.03,2
+THA,Thailand,2000,0,0.05,2
+THA,Thailand,2001,0,0.07,2
+TGO,Togo,1997,0,0.0,2
+TGO,Togo,1998,0,0.0,2
+TGO,Togo,1999,0,0.0,2
+TGO,Togo,2000,0,0.0,2
+TGO,Togo,2001,0,0.0,2
+TUN,Tunisia,1997,0,0.02,2
+TUN,Tunisia,1998,0,0.06,2
+TUN,Tunisia,1999,0,0.01,2
+TUN,Tunisia,2000,0,0.04,2
+TUN,Tunisia,2001,0,0.04,2
+TUR,Turkey,1997,0,0.02,2
+TUR,Turkey,1998,1,0.02,2
+TUR,Turkey,1999,0,0.08,2
+TUR,Turkey,2000,1,0.09,2
+TUR,Turkey,2001,0,0.12,2
+TKM,Turkmenistan,1997,0,0.16,2
+RUS,USSR,2001,0,0.0,2
+TKM,USSR (Turkmenistan),1998,0,0.02,2
+TKM,USSR (Turkmenistan),1999,0,0.05,2
+TKM,USSR (Turkmenistan),2000,0,0.05,2
+TKM,USSR (Turkmenistan),2001,0,0.03,2
+UGA,Uganda,1997,0,0.0,2
+UGA,Uganda,1998,0,0.0,2
+UGA,Uganda,1999,0,0.0,2
+UGA,Uganda,2000,0,0.0,2
+UGA,Uganda,2001,0,0.01,2
+UKR,Ukraine,1997,0,0.02,2
+UKR,Ukraine,1998,0,0.01,2
+UKR,Ukraine,1999,0,0.01,2
+UKR,Ukraine,2000,0,0.28,2
+UKR,Ukraine,2001,0,0.02,2
+ARE,United Arab Emirates,2001,0,0.09,2
+USA,United States,1997,0,0.01,2
+USA,United States,1998,0,0.0,2
+USA,United States,1999,1,0.2,2
+USA,United States,2000,1,0.01,2
+USA,United States,2001,1,0.05,2
+URY,Uruguay,1997,0,0.0,2
+URY,Uruguay,1998,0,0.0,2
+URY,Uruguay,1999,0,0.0,2
+URY,Uruguay,2000,0,0.01,2
+URY,Uruguay,2001,0,0.0,2
+UZB,Uzbekistan,1997,1,0.19,2
+UZB,Uzbekistan,1998,0,0.22,2
+UZB,Uzbekistan,1999,0,0.25,2
+UZB,Uzbekistan,2001,1,0.15,2
+VNM,Vietnam,1997,0,0.0,2
+VNM,Vietnam,1998,0,0.0,2
+VNM,Vietnam,1999,0,0.0,2
+VNM,Vietnam,2000,0,0.0,2
+VNM,Vietnam,2001,0,0.05,2
+ZMB,Zambia,1997,0,0.02,2
+ZMB,Zambia,1998,0,0.01,2
+ZMB,Zambia,1999,1,0.06,2
+ZMB,Zambia,2000,0,0.02,2
+ZMB,Zambia,2001,0,0.06,2
+ZWE,Zimbabwe,1997,0,0.03,2
+ZWE,Zimbabwe,1998,0,0.05,2
+ZWE,Zimbabwe,2000,0,0.07,2
+ZWE,Zimbabwe,2001,0,0.12,2
+COG,the Republic of Congo,1997,0,0.01,2
+COG,the Republic of Congo,1998,0,0.01,2
+COG,the Republic of Congo,1999,0,0.01,2
+COG,the Republic of Congo,2000,0,0.01,2
+COG,the Republic of Congo,2001,0,0.01,2
+ALB,Albania,2003,0,0.0,3
+ALB,Albania,2004,0,0.0,3
+ALB,Albania,2005,0,0.06,3
+ALB,Albania,2006,0,0.0,3
+ALB,Albania,2007,0,0.0,3
+DZA,Algeria,2004,1,0.11,3
+DZA,Algeria,2005,0,0.09,3
+DZA,Algeria,2006,0,0.13,3
+DZA,Algeria,2007,0,0.09,3
+AGO,Angola,2003,0,0.04,3
+AGO,Angola,2005,0,0.03,3
+AGO,Angola,2006,0,0.03,3
+ARG,Argentina,2003,0,0.01,3
+ARG,Argentina,2004,0,0.01,3
+ARG,Argentina,2005,0,0.02,3
+ARG,Argentina,2006,0,0.02,3
+ARG,Argentina,2007,0,0.02,3
+ARM,Armenia,2003,0,0.0,3
+ARM,Armenia,2004,0,0.0,3
+ARM,Armenia,2005,0,0.0,3
+ARM,Armenia,2006,0,0.0,3
+ARM,Armenia,2007,0,0.0,3
+AUS,Australia,2003,0,0.0,3
+AUS,Australia,2004,0,0.0,3
+AUS,Australia,2005,0,0.0,3
+AUS,Australia,2006,0,0.0,3
+AUS,Australia,2007,1,0.02,3
+AUT,Austria,2003,0,0.0,3
+AUT,Austria,2005,0,0.0,3
+AUT,Austria,2006,0,0.08,3
+AZE,Azerbaijan,2003,0,0.0,3
+AZE,Azerbaijan,2004,0,0.0,3
+AZE,Azerbaijan,2005,0,0.02,3
+AZE,Azerbaijan,2006,0,0.03,3
+AZE,Azerbaijan,2007,0,0.02,3
+BGD,Bangladesh,2007,0,0.16,3
+BLR,Belarus,2003,0,0.1,3
+BLR,Belarus,2004,0,0.02,3
+BLR,Belarus,2005,0,0.01,3
+BLR,Belarus,2006,0,0.01,3
+BLR,Belarus,2007,0,0.01,3
+BEL,Belgium,2003,0,0.03,3
+BEL,Belgium,2004,0,0.03,3
+BEL,Belgium,2005,0,0.03,3
+BEL,Belgium,2006,0,0.03,3
+BEL,Belgium,2007,0,0.02,3
+BEN,Benin,2006,0,0.0,3
+BEN,Benin,2007,0,0.03,3
+BTN,Bhutan,2003,0,0.0,3
+BTN,Bhutan,2004,0,0.0,3
+BTN,Bhutan,2005,0,0.0,3
+BTN,Bhutan,2006,0,0.0,3
+BTN,Bhutan,2007,0,0.0,3
+GNB,Bissau,2003,0,0.03,3
+GNB,Bissau,2004,0,0.02,3
+GNB,Bissau,2005,0,0.03,3
+GNB,Bissau,2006,0,0.08,3
+GNB,Bissau,2007,0,0.02,3
+BOL,Bolivia,2003,0,0.0,3
+BOL,Bolivia,2004,0,0.08,3
+BOL,Bolivia,2005,0,0.13,3
+BOL,Bolivia,2006,0,0.01,3
+BOL,Bolivia,2007,0,0.01,3
+BIH,Bosnia,2005,0,0.34,3
+BIH,Bosnia,2006,0,0.38,3
+BIH,Bosnia,2007,0,0.5,3
+BIH,Bosnia and Herzegovina,2003,0,0.01,3
+BWA,Botswana,2005,0,0.0,3
+BWA,Botswana,2006,0,0.0,3
+BWA,Botswana,2007,0,0.03,3
+BRA,Brazil,2003,0,0.0,3
+BRA,Brazil,2004,0,0.07,3
+BRA,Brazil,2005,0,0.06,3
+BRA,Brazil,2006,0,0.03,3
+BRA,Brazil,2007,0,0.0,3
+BGR,Bulgaria,2003,0,0.0,3
+BGR,Bulgaria,2005,0,0.0,3
+BGR,Bulgaria,2006,0,0.13,3
+BGR,Bulgaria,2007,0,0.17,3
+BFA,Burkina Faso,2003,0,0.0,3
+BFA,Burkina Faso,2005,0,0.02,3
+BFA,Burkina Faso,2006,0,0.04,3
+BDI,Burundi,2003,0,0.01,3
+BDI,Burundi,2005,0,0.16,3
+BDI,Burundi,2007,0,0.03,3
+KHM,Cambodia,2003,0,0.02,3
+KHM,Cambodia,2004,0,0.01,3
+KHM,Cambodia,2005,0,0.0,3
+KHM,Cambodia,2007,0,0.0,3
+CMR,Cameroon,2003,0,0.0,3
+CMR,Cameroon,2004,0,0.0,3
+CMR,Cameroon,2005,0,0.0,3
+CMR,Cameroon,2006,0,0.0,3
+CAN,Canada,2003,0,0.05,3
+CAN,Canada,2004,0,0.08,3
+CAN,Canada,2005,0,0.0,3
+CAN,Canada,2006,0,0.0,3
+CAN,Canada,2007,0,0.0,3
+CPV,Cape Verde,2004,0,0.19,3
+TCD,Chad,2003,0,0.0,3
+TCD,Chad,2004,0,0.01,3
+TCD,Chad,2005,0,0.01,3
+TCD,Chad,2006,0,0.01,3
+TCD,Chad,2007,0,0.01,3
+CHL,Chile,2003,0,0.0,3
+CHL,Chile,2004,0,0.01,3
+CHL,Chile,2005,0,0.01,3
+CHL,Chile,2006,0,0.01,3
+CHL,Chile,2007,0,0.01,3
+CHN,China,2003,0,0.13,3
+CHN,China,2004,1,0.09,3
+CHN,China,2005,0,0.4,3
+CHN,China,2006,1,0.13,3
+CHN,China,2007,0,0.33,3
+COL,Colombia,2003,1,0.28,3
+COL,Colombia,2004,0,0.4,3
+COL,Colombia,2005,0,0.27,3
+COL,Columbia,2006,0,0.01,3
+COL,Columbia,2007,0,0.01,3
+CRI,Costa Rica,2003,0,0.01,3
+CRI,Costa Rica,2004,0,0.01,3
+CRI,Costa Rica,2005,0,0.01,3
+CRI,Costa Rica,2006,0,0.0,3
+CRI,Costa Rica,2007,0,0.0,3
+CIV,Cote DIvoire,2004,1,0.5,3
+CIV,Cote D’Ivoire,2003,0,0.0,3
+CIV,Cote D’Ivoire,2005,0,0.0,3
+HRV,Croatia,2003,0,0.03,3
+HRV,Croatia,2004,0,0.26,3
+HRV,Croatia,2005,0,0.02,3
+HRV,Croatia,2006,0,0.16,3
+HRV,Croatia,2007,0,0.0,3
+CUB,Cuba,2003,0,0.0,3
+CUB,Cuba,2004,0,0.01,3
+CUB,Cuba,2005,0,0.0,3
+CUB,Cuba,2006,0,0.01,3
+CUB,Cuba,2007,0,0.0,3
+CYP,Cyprus,2003,0,0.2,3
+CYP,Cyprus,2004,0,0.15,3
+CYP,Cyprus,2005,0,0.12,3
+CYP,Cyprus,2006,0,0.06,3
+CYP,Cyprus,2007,0,0.06,3
+CZE,Czech Republic,2003,0,0.17,3
+CZE,Czech Republic,2004,0,0.19,3
+CZE,Czech Republic,2006,0,0.16,3
+CZE,Czech Republic,2007,0,0.15,3
+CZE,Czechoslovakia (Czech),2005,0,0.0,3
+SVK,Czechoslovakia (Slovak Federation),2003,0,0.02,3
+COD,Democratic Republic of Congo,2004,1,0.03,3
+COD,Democratic Republic of Congo,2005,0,0.25,3
+COD,Democratic Republic of the Congo (DRC),2007,0,0.03,3
+DOM,Dominican Republic,2003,0,0.01,3
+DOM,Dominican Republic,2004,0,0.01,3
+DOM,Dominican Republic,2005,0,0.01,3
+DOM,Dominican Republic,2006,0,0.01,3
+DOM,Dominican Republic,2007,0,0.0,3
+TLS,East Timor,2003,0,0.01,3
+TLS,East Timor,2004,0,0.0,3
+TLS,East Timor,2005,0,0.0,3
+TLS,East Timor,2006,0,0.0,3
+TLS,East Timor,2007,0,0.0,3
+ECU,Ecuador,2003,0,0.05,3
+ECU,Ecuador,2004,0,0.11,3
+ECU,Ecuador,2005,0,0.14,3
+ECU,Ecuador,2006,0,0.03,3
+ECU,Ecuador,2007,0,0.01,3
+EGY,Egypt,2003,0,0.21,3
+EGY,Egypt,2004,1,0.13,3
+EGY,Egypt,2005,0,0.38,3
+EGY,Egypt,2006,0,0.27,3
+EGY,Egypt,2007,1,0.27,3
+SLV,El Salvador,2003,0,0.0,3
+SLV,El Salvador,2004,0,0.01,3
+SLV,El Salvador,2005,0,0.01,3
+SLV,El Salvador,2006,0,0.0,3
+SLV,El Salvador,2007,0,0.01,3
+ERI,Eritrea,2003,0,0.0,3
+ERI,Eritrea,2004,0,0.02,3
+ERI,Eritrea,2005,0,0.1,3
+ERI,Eritrea,2006,0,0.04,3
+ERI,Eritrea,2007,0,0.0,3
+EUU,European Union,2003,0,0.07,3
+FIN,Finland,2003,0,0.0,3
+FIN,Finland,2004,0,0.0,3
+FIN,Finland,2005,0,0.0,3
+FIN,Finland,2006,0,0.0,3
+FIN,Finland,2007,0,0.0,3
+FRA,France,2003,0,0.01,3
+FRA,France,2004,0,0.01,3
+FRA,France,2006,0,0.01,3
+FRA,France,2007,0,0.04,3
+FRA,French Guiana,2005,0,0.05,3
+GMB,Gambia,2003,0,0.01,3
+GMB,Gambia,2004,0,0.15,3
+GMB,Gambia,2005,0,0.01,3
+GMB,Gambia,2006,0,0.03,3
+GMB,Gambia,2007,0,0.14,3
+GEO,Georgia,2003,0,0.01,3
+GEO,Georgia,2004,0,0.04,3
+GEO,Georgia,2005,0,0.0,3
+GEO,Georgia,2006,0,0.0,3
+GEO,Georgia,2007,0,0.0,3
+DEU,Germany,2003,0,0.11,3
+DEU,Germany,2004,0,0.08,3
+DEU,Germany,2005,0,0.0,3
+DEU,Germany,2006,0,0.06,3
+DEU,Germany,2007,0,0.0,3
+GHA,Ghana,2003,0,0.0,3
+GHA,Ghana,2004,0,0.07,3
+GHA,Ghana,2005,0,0.01,3
+GHA,Ghana,2006,0,0.02,3
+GHA,Ghana,2007,0,0.0,3
+GBR,Great Britain,2004,0,0.0,3
+GBR,Great Britain,2005,0,0.0,3
+GBR,Great Britain,2006,0,0.0,3
+GBR,Great Britain,2007,0,0.0,3
+GRC,Greece,2003,0,0.0,3
+GRC,Greece,2004,0,0.0,3
+GRC,Greece,2005,0,0.0,3
+GRC,Greece,2006,0,0.0,3
+GRC,Greece,2007,0,0.0,3
+GTM,Guatemala,2003,0,0.01,3
+GTM,Guatemala,2004,0,0.01,3
+GTM,Guatemala,2005,0,0.01,3
+GTM,Guatemala,2006,0,0.01,3
+GTM,Guatemala,2007,1,0.03,3
+GIN,Guinea,2003,0,0.05,3
+GIN,Guinea,2004,0,0.0,3
+GIN,Guinea,2005,0,0.0,3
+GIN,Guinea,2006,0,0.0,3
+GIN,Guinea,2007,0,0.02,3
+GUY,Guyana,2003,0,0.0,3
+GUY,Guyana,2004,0,0.03,3
+GUY,Guyana,2005,0,0.03,3
+HTI,Haiti,2003,0,0.01,3
+HTI,Haiti,2004,0,0.01,3
+HTI,Haiti,2005,0,0.01,3
+HTI,Haiti,2006,0,0.0,3
+HTI,Haiti,2007,0,0.0,3
+HND,Honduras,2003,0,0.0,3
+HND,Honduras,2004,0,0.01,3
+HND,Honduras,2005,0,0.0,3
+HND,Honduras,2006,0,0.0,3
+HND,Honduras,2007,0,0.03,3
+HUN,Hungary,2003,0,0.21,3
+HUN,Hungary,2004,0,0.19,3
+HUN,Hungary,2005,0,0.17,3
+HUN,Hungary,2006,0,0.22,3
+HUN,Hungary,2007,0,0.21,3
+IND,India,2003,1,0.17,3
+IND,India,2004,1,0.21,3
+IND,India,2005,1,0.3,3
+IND,India,2006,1,0.24,3
+IND,India,2007,1,0.26,3
+IDN,Indonesia,2003,0,0.0,3
+IDN,Indonesia,2004,0,0.0,3
+IDN,Indonesia,2005,0,0.0,3
+IDN,Indonesia,2006,0,0.01,3
+IDN,Indonesia,2007,0,0.0,3
+IRN,Iran,2003,0,0.28,3
+IRN,Iran,2004,0,0.04,3
+IRN,Iran,2005,0,0.04,3
+IRN,Iran,2006,0,0.05,3
+IRN,Iran,2007,0,0.04,3
+IRQ,Iraq,2003,0,0.17,3
+IRQ,Iraq,2004,0,0.14,3
+IRQ,Iraq,2005,0,0.25,3
+IRQ,Iraq,2006,0,0.11,3
+IRQ,Iraq,2007,0,0.17,3
+IRL,Ireland,2003,0,0.0,3
+IRL,Ireland,2004,0,0.0,3
+IRL,Ireland,2005,0,0.0,3
+IRL,Ireland,2006,0,0.0,3
+IRL,Ireland,2007,0,0.0,3
+ISR,Israel,2003,0,0.12,3
+ISR,Israel,2004,0,0.09,3
+ISR,Israel,2005,0,0.09,3
+ISR,Israel,2006,0,0.03,3
+ISR,Israel,2007,0,0.08,3
+ITA,Italy,2003,0,0.0,3
+ITA,Italy,2004,0,0.0,3
+ITA,Italy,2005,0,0.0,3
+ITA,Italy,2006,0,0.0,3
+ITA,Italy,2007,0,0.01,3
+JAM,Jamaica,2003,0,0.0,3
+JAM,Jamaica,2004,0,0.0,3
+JAM,Jamaica,2005,0,0.02,3
+JAM,Jamaica,2006,0,0.0,3
+JAM,Jamaica,2007,0,0.03,3
+JPN,Japan,2003,0,0.0,3
+JPN,Japan,2004,0,0.0,3
+JPN,Japan,2005,0,0.0,3
+JPN,Japan,2006,0,0.0,3
+JPN,Japan,2007,0,0.01,3
+JOR,Jordan,2003,0,0.09,3
+JOR,Jordan,2004,0,0.1,3
+JOR,Jordan,2005,0,0.05,3
+JOR,Jordan,2006,0,0.05,3
+JOR,Jordan,2007,0,0.06,3
+KAZ,Kazakhstan,2003,0,0.23,3
+KAZ,Kazakhstan,2006,0,0.29,3
+KAZ,Kazakstan,2004,0,0.02,3
+KAZ,Kazakstan,2005,0,0.02,3
+KAZ,Kazakstan,2007,0,0.01,3
+KEN,Kenya,2003,1,0.41,3
+KEN,Kenya,2004,1,0.23,3
+KEN,Kenya,2005,1,0.4,3
+KEN,Kenya,2006,1,0.26,3
+KEN,Kenya,2007,0,0.36,3
+KWT,Kuwait,2003,0,0.03,3
+KWT,Kuwait,2004,0,0.12,3
+KWT,Kuwait,2005,0,0.14,3
+KWT,Kuwait,2006,0,0.07,3
+KWT,Kuwait,2007,0,0.09,3
+KGZ,Kyrgyz Republic,2006,0,0.08,3
+KGZ,Kyrgyzstan,2003,0,0.36,3
+KGZ,Kyrgyzstan,2004,0,0.03,3
+KGZ,Kyrgyzstan,2005,0,0.03,3
+KGZ,Kyrgyzstan,2007,0,0.03,3
+LAO,Laos,2003,0,0.0,3
+LAO,Laos,2004,0,0.0,3
+LAO,Laos,2005,0,0.0,3
+LAO,Laos,2006,0,0.0,3
+LAO,Laos,2007,0,0.0,3
+LVA,Latvia,2003,0,0.0,3
+LVA,Latvia,2004,0,0.0,3
+LVA,Latvia,2005,0,0.0,3
+LVA,Latvia,2006,0,0.01,3
+LVA,Latvia,2007,0,0.0,3
+LBN,Lebanon,2003,0,0.11,3
+LBN,Lebanon,2004,0,0.02,3
+LBN,Lebanon,2005,0,0.05,3
+LBN,Lebanon,2006,0,0.03,3
+LBN,Lebanon,2007,0,0.06,3
+LSO,Lesotho,2007,0,0.12,3
+LBY,Libya,2003,0,0.08,3
+LBY,Libya,2004,0,0.15,3
+LBY,Libya,2005,0,0.15,3
+LBY,Libya,2006,0,0.1,3
+LBY,Libya,2007,0,0.1,3
+LTU,Lithuania,2003,0,0.04,3
+LTU,Lithuania,2004,0,0.0,3
+LTU,Lithuania,2005,0,0.0,3
+LTU,Lithuania,2006,0,0.0,3
+LTU,Lithuania,2007,0,0.0,3
+LUX,Luxembourg,2003,0,0.0,3
+LUX,Luxembourg,2004,0,0.0,3
+LUX,Luxembourg,2005,0,0.0,3
+LUX,Luxembourg,2006,0,0.0,3
+MKD,Macedonia,2003,0,0.03,3
+MKD,Macedonia,2004,0,0.01,3
+MKD,Macedonia,2005,0,0.0,3
+MKD,Macedonia,2006,0,0.0,3
+MKD,Macedonia,2007,0,0.0,3
+MYS,Malaysia,2003,0,0.0,3
+MYS,Malaysia,2004,0,0.0,3
+MYS,Malaysia,2005,0,0.01,3
+MYS,Malaysia,2006,0,0.0,3
+MYS,Malaysia,2007,0,0.0,3
+MLI,Mali,2003,0,0.26,3
+MLI,Mali,2004,0,0.34,3
+MLI,Mali,2005,0,0.03,3
+MLI,Mali,2006,0,0.06,3
+MLI,Mali,2007,0,0.08,3
+MRT,Mauritania,2003,0,0.27,3
+MRT,Mauritania,2004,0,0.15,3
+MRT,Mauritania,2005,0,0.13,3
+MRT,Mauritania,2006,0,0.14,3
+MRT,Mauritania,2007,0,0.14,3
+MEX,Mexico,2003,0,0.1,3
+MEX,Mexico,2004,1,0.07,3
+MEX,Mexico,2005,0,0.18,3
+MEX,Mexico,2006,0,0.07,3
+MEX,Mexico,2007,0,0.09,3
+MDA,Moldova,2003,0,0.04,3
+MDA,Moldova,2004,0,0.19,3
+MDA,Moldova,2005,0,0.01,3
+MDA,Moldova,2006,0,0.05,3
+MDA,Moldova,2007,0,0.07,3
+MNG,Mongolia,2003,0,0.0,3
+MNG,Mongolia,2004,0,0.0,3
+MNG,Mongolia,2005,0,0.0,3
+MNG,Mongolia,2006,0,0.0,3
+MNG,Mongolia,2007,0,0.0,3
+MNE,Montenegro,2006,0,0.07,3
+MNE,Montenegro,2007,0,0.14,3
+MAR,Morocco,2003,0,0.04,3
+MAR,Morocco,2004,0,0.04,3
+MAR,Morocco,2005,0,0.05,3
+MAR,Morocco,2006,0,0.05,3
+MAR,Morocco,2007,0,0.04,3
+MOZ,Mozambique,2003,0,0.08,3
+MOZ,Mozambique,2004,0,0.01,3
+MOZ,Mozambique,2005,0,0.01,3
+MOZ,Mozambique,2006,0,0.0,3
+MOZ,Mozambique,2007,0,0.03,3
+NAM,Namibia,2003,0,0.0,3
+NAM,Namibia,2004,0,0.01,3
+NAM,Namibia,2005,0,0.0,3
+NAM,Namibia,2006,0,0.0,3
+NAM,Namibia,2007,0,0.0,3
+NPL,Nepal,2003,0,0.02,3
+NPL,Nepal,2004,0,0.0,3
+NPL,Nepal,2005,0,0.04,3
+NPL,Nepal,2006,0,0.0,3
+NPL,Nepal,2007,0,0.0,3
+NLD,Netherlands,2003,0,0.04,3
+NLD,Netherlands,2004,0,0.09,3
+NLD,Netherlands,2005,0,0.03,3
+NLD,Netherlands,2006,0,0.03,3
+NIC,Nicaragua,2003,0,0.0,3
+NIC,Nicaragua,2004,0,0.0,3
+NIC,Nicaragua,2005,0,0.0,3
+NIC,Nicaragua,2006,0,0.0,3
+NIC,Nicaragua,2007,0,0.0,3
+NER,Niger,2003,0,0.02,3
+NER,Niger,2004,0,0.11,3
+NER,Niger,2005,0,0.02,3
+NER,Niger,2006,0,0.02,3
+NER,Niger,2007,0,0.02,3
+NGA,Nigeria,2003,0,0.02,3
+NGA,Nigeria,2004,1,0.37,3
+NGA,Nigeria,2005,0,0.09,3
+NGA,Nigeria,2006,0,0.09,3
+NGA,Nigeria,2007,0,0.11,3
+NOR,Norway,2003,0,0.0,3
+NOR,Norway,2004,0,0.0,3
+NOR,Norway,2005,0,0.0,3
+NOR,Norway,2006,0,0.0,3
+NOR,Norway,2007,0,0.0,3
+OMN,Oman,2003,0,0.11,3
+OMN,Oman,2004,0,0.11,3
+OMN,Oman,2005,0,0.21,3
+OMN,Oman,2006,0,0.24,3
+OMN,Oman,2007,0,0.31,3
+PAK,Pakistan,2003,1,0.13,3
+PAK,Pakistan,2004,0,0.26,3
+PAK,Pakistan,2005,1,0.09,3
+PAK,Pakistan,2006,0,0.08,3
+PAK,Pakistan,2007,0,0.0,3
+PSE,Palestine,2003,0,0.02,3
+PSE,Palestine,2004,0,0.06,3
+PSE,Palestine,2005,0,0.07,3
+PSE,Palestine,2006,0,0.06,3
+PSE,Palestine,2007,0,0.07,3
+PNG,Papua New Guinea,2003,0,0.01,3
+PNG,Papua New Guinea,2004,0,0.0,3
+PRY,Paraguay,2003,0,0.0,3
+PRY,Paraguay,2004,0,0.0,3
+PRY,Paraguay,2005,0,0.0,3
+PRY,Paraguay,2006,0,0.0,3
+PRY,Paraguay,2007,0,0.0,3
+PER,Peru,2003,0,0.05,3
+PER,Peru,2004,0,0.1,3
+PER,Peru,2005,0,0.02,3
+PER,Peru,2006,0,0.0,3
+PER,Peru,2007,0,0.0,3
+PHL,Philippines,2003,0,0.0,3
+PHL,Philippines,2004,0,0.0,3
+PHL,Philippines,2005,0,0.0,3
+PHL,Philippines,2006,0,0.01,3
+PHL,Philippines,2007,0,0.0,3
+POL,Poland,2003,0,0.04,3
+POL,Poland,2004,0,0.17,3
+POL,Poland,2005,0,0.01,3
+POL,Poland,2006,0,0.0,3
+POL,Poland,2007,0,0.0,3
+PRT,Portugal,2003,0,0.0,3
+PRT,Portugal,2004,0,0.05,3
+PRT,Portugal,2005,0,0.12,3
+PRT,Portugal,2006,0,0.03,3
+PRT,Portugal,2007,0,0.06,3
+PRI,Puerto Rico,2003,0,0.03,3
+PRI,Puerto Rico,2004,0,0.02,3
+PRI,Puerto Rico,2005,0,0.02,3
+PRI,Puerto Rico,2006,0,0.02,3
+PRI,Puerto Rico,2007,0,0.02,3
+QAT,Qatar,2003,0,0.16,3
+QAT,Qatar,2004,0,0.16,3
+QAT,Qatar,2005,0,0.14,3
+QAT,Qatar,2006,0,0.15,3
+QAT,Qatar,2007,0,0.1,3
+KOR,Republic of Korea,2003,0,0.0,3
+KOR,Republic of Korea,2004,0,0.0,3
+KOR,Republic of Korea,2005,0,0.0,3
+KOR,Republic of Korea,2006,0,0.0,3
+KOR,Republic of Korea,2007,0,0.0,3
+ROU,Romania,2003,0,0.14,3
+ROU,Romania,2004,0,0.34,3
+ROU,Romania,2005,0,0.0,3
+ROU,Romania,2006,0,0.15,3
+ROU,Romania,2007,0,0.26,3
+RUS,Russia,2003,0,0.23,3
+RUS,Russia,2005,0,0.49,3
+RUS,Russia,2006,0,0.19,3
+RUS,Russia,2007,0,0.35,3
+RWA,Rwanda,2003,0,0.03,3
+RWA,Rwanda,2004,0,0.02,3
+RWA,Rwanda,2005,0,0.14,3
+RWA,Rwanda,2006,0,0.02,3
+RWA,Rwanda,2007,0,0.03,3
+SAU,Saudi Arabia,2003,0,0.01,3
+SAU,Saudi Arabia,2004,0,0.04,3
+SAU,Saudi Arabia,2005,0,0.06,3
+SAU,Saudi Arabia,2006,0,0.15,3
+SAU,Saudi Arabia,2007,0,0.15,3
+SEN,Senegal,2003,0,0.05,3
+SEN,Senegal,2004,0,0.11,3
+SEN,Senegal,2005,0,0.03,3
+SEN,Senegal,2006,0,0.03,3
+SEN,Senegal,2007,0,0.12,3
+SRB,Serbia,2006,0,0.14,3
+SRB,Serbia,2007,0,0.21,3
+SVK,Slovakia,2004,0,0.27,3
+SVK,Slovakia,2005,0,0.18,3
+SVK,Slovakia,2006,0,0.21,3
+SVK,Slovakia,2007,0,0.23,3
+SVN,Slovenia,2003,0,0.01,3
+SVN,Slovenia,2004,0,0.1,3
+SVN,Slovenia,2005,0,0.05,3
+SVN,Slovenia,2006,0,0.06,3
+SVN,Slovenia,2007,0,0.13,3
+ZAF,South Africa,2003,0,0.22,3
+ZAF,South Africa,2004,1,0.23,3
+ZAF,South Africa,2007,0,0.38,3
+ZAF,South Africa (Namibia),2005,0,0.02,3
+ZAF,South Africa (Namibia),2006,0,0.0,3
+ZWE,Southern Rhodesia,2005,0,0.0,3
+ZWE,Southern Rhodesia,2006,0,0.0,3
+UZB,Soviet Union (Uzbekistan),2003,0,0.0,3
+UZB,Soviet Union (Uzbekistan),2004,0,0.02,3
+UZB,Soviet Union (Uzbekistan),2005,0,0.01,3
+UZB,Soviet Union (Uzbekistan),2007,0,0.01,3
+ESP,Spain,2003,0,0.0,3
+ESP,Spain,2004,0,0.0,3
+ESP,Spain,2005,0,0.06,3
+ESP,Spain,2006,0,0.0,3
+ESP,Spain,2007,0,0.01,3
+LKA,Sri Lanka,2003,0,0.04,3
+LKA,Sri Lanka,2004,0,0.03,3
+LKA,Sri Lanka,2005,0,0.03,3
+LKA,Sri Lanka,2006,0,0.03,3
+LKA,Sri Lanka,2007,0,0.03,3
+SDN,Sudan,2003,0,0.07,3
+SDN,Sudan,2004,1,0.07,3
+SDN,Sudan,2005,0,0.21,3
+SDN,Sudan,2006,1,0.05,3
+SDN,Sudan,2007,1,0.08,3
+SUR,Suriname,2006,0,0.0,3
+SUR,Suriname,2007,0,0.0,3
+SWZ,Swaziland,2003,0,0.0,3
+SWZ,Swaziland,2004,0,0.0,3
+SWZ,Swaziland,2005,0,0.0,3
+SWZ,Swaziland,2006,0,0.01,3
+SWZ,Swaziland,2007,0,0.01,3
+SWE,Sweden,2004,0,0.02,3
+CHE,Switzerland,2003,0,0.0,3
+CHE,Switzerland,2004,0,0.0,3
+CHE,Switzerland,2005,0,0.0,3
+CHE,Switzerland,2006,0,0.0,3
+CHE,Switzerland,2007,0,0.01,3
+SYR,Syria,2003,0,0.25,3
+SYR,Syria,2004,0,0.22,3
+SYR,Syria,2005,0,0.29,3
+SYR,Syria,2006,0,0.29,3
+SYR,Syria,2007,0,0.23,3
+TJK,Tajikistan,2003,0,0.03,3
+TJK,Tajikistan,2004,0,0.05,3
+TJK,Tajikistan,2005,0,0.01,3
+TJK,Tajikistan,2006,0,0.26,3
+TJK,Tajikistan,2007,0,0.01,3
+TZA,Tanzania,2003,0,0.04,3
+TZA,Tanzania,2004,1,0.04,3
+TZA,Tanzania,2005,0,0.13,3
+TZA,Tanzania,2006,0,0.05,3
+TZA,Tanzania,2007,0,0.02,3
+THA,Thailand,2003,0,0.06,3
+THA,Thailand,2004,0,0.06,3
+THA,Thailand,2005,0,0.04,3
+THA,Thailand,2006,0,0.05,3
+THA,Thailand,2007,0,0.04,3
+TGO,Togo,2003,0,0.0,3
+TGO,Togo,2004,0,0.1,3
+TGO,Togo,2005,0,0.0,3
+TGO,Togo,2006,0,0.01,3
+TGO,Togo,2007,0,0.0,3
+TUN,Tunisia,2003,0,0.04,3
+TUN,Tunisia,2004,0,0.04,3
+TUN,Tunisia,2005,0,0.04,3
+TUN,Tunisia,2006,0,0.05,3
+TUN,Tunisia,2007,0,0.05,3
+TUR,Turkey,2003,0,0.21,3
+TUR,Turkey,2004,0,0.14,3
+TUR,Turkey,2005,0,0.29,3
+TUR,Turkey,2006,0,0.1,3
+TUR,Turkey,2007,0,0.11,3
+RUS,USSR,2004,0,0.05,3
+TKM,USSR (Turkmenistan),2003,0,0.0,3
+TKM,USSR (Turkmenistan),2004,0,0.0,3
+TKM,USSR (Turkmenistan),2005,0,0.04,3
+TKM,USSR (Turkmenistan),2006,0,0.02,3
+TKM,USSR (Turkmenistan),2007,0,0.04,3
+UGA,Uganda,2003,0,0.0,3
+UGA,Uganda,2004,0,0.0,3
+UGA,Uganda,2005,0,0.15,3
+UGA,Uganda,2006,0,0.06,3
+UGA,Uganda,2007,0,0.04,3
+UKR,Ukraine,2003,0,0.04,3
+UKR,Ukraine,2004,0,0.15,3
+UKR,Ukraine,2005,0,0.0,3
+UKR,Ukraine,2006,0,0.04,3
+UKR,Ukraine,2007,0,0.04,3
+ARE,United Arab Emirates,2003,0,0.07,3
+ARE,United Arab Emirates,2004,0,0.16,3
+ARE,United Arab Emirates,2005,0,0.11,3
+ARE,United Arab Emirates,2006,0,0.12,3
+ARE,United Arab Emirates,2007,0,0.09,3
+USA,United States,2003,1,0.09,3
+USA,United States,2004,1,0.1,3
+USA,United States,2005,0,0.09,3
+USA,United States,2006,0,0.03,3
+USA,United States,2007,0,0.03,3
+URY,Uruguay,2003,0,0.0,3
+URY,Uruguay,2004,0,0.0,3
+URY,Uruguay,2005,0,0.0,3
+URY,Uruguay,2006,0,0.01,3
+URY,Uruguay,2007,0,0.0,3
+UZB,Uzbekistan,2006,0,0.21,3
+VNM,Vietnam,2003,0,0.01,3
+VNM,Vietnam,2004,0,0.01,3
+VNM,Vietnam,2005,0,0.0,3
+VNM,Vietnam,2006,0,0.01,3
+VNM,Vietnam,2007,0,0.0,3
+ZMB,Zambia,2003,0,0.04,3
+ZMB,Zambia,2004,0,0.04,3
+ZMB,Zambia,2005,0,0.0,3
+ZMB,Zambia,2006,0,0.0,3
+ZMB,Zambia,2007,0,0.02,3
+ZWE,Zimbabwe,2003,0,0.16,3
+ZWE,Zimbabwe,2004,0,0.14,3
+ZWE,Zimbabwe,2007,0,0.11,3
+NLD,the Netherlands,2007,0,0.02,3
+COG,the Republic of Congo,2003,0,0.02,3
+COG,the Republic of Congo,2004,0,0.02,3
+COG,the Republic of Congo,2005,0,0.02,3
+COG,the Republic of Congo,2006,0,0.02,3
+COG,the Republic of Congo,2007,0,0.02,3
+ALB,Albania,2009,0,0.0,4
+ALB,Albania,2010,0,0.04,4
+ALB,Albania,2011,0,0.01,4
+ALB,Albania,2012,0,0.0,4
+ALB,Albania,2013,0,0.0,4
+DZA,Algeria,2009,0,0.1,4
+DZA,Algeria,2010,0,0.06,4
+DZA,Algeria,2011,0,0.13,4
+DZA,Algeria,2012,0,0.13,4
+DZA,Algeria,2013,1,0.07,4
+AGO,Angola,2009,0,0.05,4
+AGO,Angola,2010,0,0.03,4
+AGO,Angola,2011,0,0.05,4
+AGO,Angola,2012,0,0.04,4
+AGO,Angola,2013,0,0.01,4
+ARG,Argentina,2009,0,0.01,4
+ARG,Argentina,2010,0,0.0,4
+ARG,Argentina,2011,0,0.0,4
+ARG,Argentina,2012,0,0.01,4
+ARG,Argentina,2013,0,0.02,4
+ARM,Armenia,2009,0,0.0,4
+ARM,Armenia,2010,0,0.0,4
+ARM,Armenia,2011,0,0.0,4
+ARM,Armenia,2012,0,0.01,4
+ARM,Armenia,2013,0,0.01,4
+AUS,Australia,2009,0,0.12,4
+AUS,Australia,2010,0,0.07,4
+AUS,Australia,2012,0,0.11,4
+AUS,Australia,2013,0,0.11,4
+AUT,Austria,2009,0,0.01,4
+AUT,Austria,2010,0,0.0,4
+AUT,Austria,2011,0,0.0,4
+AUT,Austria,2012,0,0.0,4
+AUT,Austria,2013,0,0.0,4
+AZE,Azerbaijan,2009,0,0.03,4
+AZE,Azerbaijan,2010,0,0.03,4
+AZE,Azerbaijan,2011,0,0.05,4
+AZE,Azerbaijan,2012,0,0.06,4
+AZE,Azerbaijan,2013,0,0.08,4
+BHR,Bahrain,2012,0,0.03,4
+BGD,Bangladesh,2009,0,0.34,4
+BGD,Bangladesh,2010,0,0.33,4
+BGD,Bangldadesh,2012,0,0.02,4
+BLR,Belarus,2009,0,0.0,4
+BLR,Belarus,2010,0,0.0,4
+BLR,Belarus,2011,0,0.0,4
+BLR,Belarus,2012,0,0.0,4
+BLR,Belarus,2013,0,0.0,4
+BEL,Belgium,2009,0,0.03,4
+BEL,Belgium,2010,0,0.03,4
+BEL,Belgium,2011,0,0.03,4
+BEL,Belgium,2012,0,0.02,4
+BEL,Belgium,2013,0,0.03,4
+BTN,Bhutan,2009,0,0.0,4
+BTN,Bhutan,2010,0,0.0,4
+BTN,Bhutan,2011,0,0.0,4
+BTN,Bhutan,2012,0,0.0,4
+BTN,Bhutan,2013,0,0.0,4
+GNB,Bissau,2009,0,0.0,4
+GNB,Bissau,2010,0,0.06,4
+GNB,Bissau,2011,0,0.0,4
+GNB,Bissau,2012,0,0.06,4
+GNB,Bissau,2013,0,0.04,4
+BOL,Bolivia,2009,0,0.02,4
+BOL,Bolivia,2010,0,0.03,4
+BOL,Bolivia,2011,0,0.02,4
+BOL,Bolivia,2012,0,0.02,4
+BOL,Bolivia,2013,0,0.02,4
+BIH,Bosnia and Herzegovina,2009,0,0.0,4
+BIH,Bosnia and Herzegovina,2010,0,0.01,4
+BIH,Bosnia and Herzegovina,2011,0,0.01,4
+BIH,Bosnia and Herzegovina,2012,0,0.0,4
+BIH,Bosnia and Herzegovina,2013,0,0.0,4
+BWA,Botswana,2009,0,0.09,4
+BWA,Botswana,2010,0,0.06,4
+BWA,Botswana,2011,0,0.08,4
+BWA,Botswana,2012,0,0.08,4
+BWA,Botswana,2013,0,0.09,4
+BRA,Brazil,2009,0,0.0,4
+BRA,Brazil,2010,0,0.0,4
+BRA,Brazil,2011,0,0.0,4
+BRA,Brazil,2013,0,0.02,4
+BGR,Bulgaria,2009,0,0.0,4
+BGR,Bulgaria,2010,0,0.0,4
+BGR,Bulgaria,2011,0,0.01,4
+BGR,Bulgaria,2012,0,0.0,4
+BGR,Bulgaria,2013,0,0.0,4
+BFA,Burkina Faso,2009,0,0.02,4
+BFA,Burkina Faso,2010,0,0.0,4
+BFA,Burkina Faso,2011,0,0.06,4
+BFA,Burkina Faso,2012,1,0.1,4
+BFA,Burkina Faso,2013,0,0.16,4
+BDI,Burundi,2009,0,0.0,4
+BDI,Burundi,2010,0,0.0,4
+BDI,Burundi,2011,0,0.0,4
+BDI,Burundi,2012,0,0.0,4
+BDI,Burundi,2013,0,0.0,4
+KHM,Cambodia,2009,0,0.0,4
+KHM,Cambodia,2010,0,0.0,4
+KHM,Cambodia,2011,0,0.0,4
+KHM,Cambodia,2012,0,0.01,4
+KHM,Cambodia,2013,0,0.01,4
+CMR,Cameroon,2009,0,0.06,4
+CMR,Cameroon,2010,0,0.02,4
+CMR,Cameroon,2011,0,0.02,4
+CMR,Cameroon,2012,0,0.04,4
+CMR,Cameroon,2013,0,0.03,4
+CAN,Canada,2009,0,0.0,4
+CAN,Canada,2010,0,0.0,4
+CAN,Canada,2011,0,0.0,4
+CAN,Canada,2012,0,0.0,4
+CAN,Canada,2013,1,0.06,4
+TCD,Chad,2009,0,0.02,4
+TCD,Chad,2010,0,0.01,4
+TCD,Chad,2011,0,0.02,4
+TCD,Chad,2012,0,0.02,4
+TCD,Chad,2013,0,0.01,4
+CHL,Chile,2009,0,0.15,4
+CHL,Chile,2010,0,0.17,4
+CHL,Chile,2011,0,0.17,4
+CHL,Chile,2012,0,0.17,4
+CHL,Chile,2013,0,0.24,4
+CHN,China,2009,0,0.19,4
+CHN,China,2010,0,0.17,4
+CHN,China,2011,0,0.14,4
+CHN,China,2012,1,0.12,4
+CHN,China,2013,1,0.21,4
+COL,Colombia,2013,1,0.29,4
+COL,Columbia,2009,0,0.0,4
+COL,Columbia,2010,0,0.0,4
+COL,Columbia,2011,0,0.0,4
+COL,Columbia,2012,0,0.0,4
+COD,Congo Democratic Republic of the (Brazzaville),2009,0,0.0,4
+COD,Congo Democratic Republic of the (Brazzaville),2010,0,0.0,4
+COD,Congo Democratic Republic of the (Brazzaville),2011,0,0.0,4
+COD,Congo Democratic Republic of the (Brazzaville),2012,0,0.0,4
+COD,Congo Democratic Republic of the (Brazzaville),2013,0,0.0,4
+CRI,Costa Rica,2009,0,0.0,4
+CRI,Costa Rica,2010,0,0.0,4
+CRI,Costa Rica,2011,0,0.0,4
+CRI,Costa Rica,2012,0,0.0,4
+CRI,Costa Rica,2013,0,0.0,4
+CIV,Cote D’Ivoire,2009,0,0.0,4
+CIV,Cote D’Ivoire,2010,0,0.02,4
+CIV,Cote D’Ivoire,2011,0,0.02,4
+CIV,Cote D’Ivoire,2012,0,0.01,4
+HRV,Croatia,2009,0,0.0,4
+HRV,Croatia,2010,0,0.0,4
+HRV,Croatia,2011,0,0.01,4
+HRV,Croatia,2012,0,0.0,4
+HRV,Croatia,2013,0,0.0,4
+CUB,Cuba,2009,0,0.01,4
+CUB,Cuba,2010,0,0.01,4
+CUB,Cuba,2011,0,0.0,4
+CUB,Cuba,2012,0,0.01,4
+CUB,Cuba,2013,0,0.0,4
+CYP,Cyprus,2009,0,0.18,4
+CYP,Cyprus,2010,0,0.12,4
+CYP,Cyprus,2011,0,0.15,4
+CYP,Cyprus,2012,0,0.23,4
+CYP,Cyprus,2013,0,0.09,4
+CZE,Czechoslovakia (Czech),2009,0,0.01,4
+CZE,Czechoslovakia (Czech),2010,0,0.01,4
+CZE,Czechoslovakia (Czech),2011,0,0.02,4
+CZE,Czechoslovakia (Czech),2012,0,0.01,4
+CZE,Czechoslovakia (Czech),2013,0,0.01,4
+SVK,Czechoslovakia (Slovak Federation),2009,0,0.04,4
+SVK,Czechoslovakia (Slovak Federation),2010,0,0.03,4
+SVK,Czechoslovakia (Slovak Federation),2011,0,0.05,4
+SVK,Czechoslovakia (Slovak Federation),2012,0,0.03,4
+SVK,Czechoslovakia (Slovak Federation),2013,0,0.03,4
+DJI,Djibouti,2013,0,0.19,4
+DOM,Dominican Republic,2009,0,0.0,4
+DOM,Dominican Republic,2010,0,0.0,4
+DOM,Dominican Republic,2011,0,0.0,4
+DOM,Dominican Republic,2012,0,0.0,4
+DOM,Dominican Republic,2013,0,0.0,4
+TLS,East Timor,2009,0,0.01,4
+TLS,East Timor,2010,0,0.0,4
+TLS,East Timor,2011,0,0.0,4
+TLS,East Timor,2012,0,0.0,4
+TLS,East Timor,2013,0,0.0,4
+ECU,Ecuador,2009,0,0.03,4
+ECU,Ecuador,2010,0,0.03,4
+ECU,Ecuador,2011,0,0.03,4
+ECU,Ecuador,2012,0,0.01,4
+ECU,Ecuador,2013,0,0.01,4
+EGY,Egypt,2009,0,0.24,4
+EGY,Egypt,2010,0,0.26,4
+EGY,Egypt,2011,0,0.27,4
+EGY,Egypt,2012,1,0.19,4
+EGY,Egypt,2013,1,0.1,4
+SLV,El Salvador,2009,0,0.01,4
+SLV,El Salvador,2010,0,0.02,4
+SLV,El Salvador,2011,0,0.01,4
+SLV,El Salvador,2012,0,0.03,4
+SLV,El Salvador,2013,0,0.0,4
+ERI,Eritrea,2009,0,0.01,4
+ERI,Eritrea,2010,0,0.01,4
+ERI,Eritrea,2011,0,0.02,4
+ETH,Ethiopia,2011,0,0.27,4
+ETH,Ethiopia,2012,1,0.25,4
+ETH,Ethiopia,2013,0,0.19,4
+EUU,European Union,2010,0,0.02,4
+EUU,European Union,2011,0,0.05,4
+FIN,Finland,2009,0,0.0,4
+FIN,Finland,2010,0,0.0,4
+FIN,Finland,2011,0,0.0,4
+FIN,Finland,2012,0,0.0,4
+FIN,Finland,2013,0,0.0,4
+FRA,France,2009,0,0.0,4
+FRA,France,2010,0,0.0,4
+FRA,France,2011,0,0.05,4
+FRA,France,2012,0,0.01,4
+FRA,France,2013,0,0.02,4
+GMB,Gambia,2009,0,0.06,4
+GMB,Gambia,2010,0,0.04,4
+GMB,Gambia,2011,0,0.14,4
+GMB,Gambia,2012,0,0.09,4
+GMB,Gambia,2013,0,0.1,4
+GEO,Georgia,2009,0,0.07,4
+GEO,Georgia,2010,0,0.09,4
+GEO,Georgia,2011,0,0.08,4
+GEO,Georgia,2012,0,0.12,4
+GEO,Georgia,2013,0,0.11,4
+DEU,Germany,2009,0,0.0,4
+DEU,Germany,2010,0,0.0,4
+DEU,Germany,2011,0,0.07,4
+DEU,Germany,2012,0,0.0,4
+DEU,Germany,2013,0,0.0,4
+GHA,Ghana,2009,0,0.0,4
+GHA,Ghana,2010,0,0.03,4
+GHA,Ghana,2011,0,0.02,4
+GHA,Ghana,2012,0,0.02,4
+GHA,Ghana,2013,0,0.02,4
+GBR,Great Britain,2009,0,0.0,4
+GBR,Great Britain,2011,0,0.04,4
+GBR,Great Britain,2012,0,0.02,4
+GBR,Great Britain,2013,0,0.01,4
+GRC,Greece,2009,0,0.0,4
+GRC,Greece,2010,0,0.01,4
+GRC,Greece,2011,0,0.0,4
+GRC,Greece,2012,0,0.0,4
+GRC,Greece,2013,0,0.0,4
+GTM,Guatemala,2009,1,0.05,4
+GTM,Guatemala,2010,1,0.02,4
+GTM,Guatemala,2011,0,0.0,4
+GTM,Guatemala,2012,0,0.0,4
+GTM,Guatemala,2013,0,0.01,4
+GIN,Guinea,2009,0,0.0,4
+GIN,Guinea,2010,0,0.0,4
+GIN,Guinea,2011,0,0.0,4
+GIN,Guinea,2012,1,0.0,4
+GIN,Guinea,2013,0,0.05,4
+HTI,Haiti,2009,0,0.0,4
+HTI,Haiti,2010,0,0.0,4
+HTI,Haiti,2011,0,0.0,4
+HTI,Haiti,2012,0,0.0,4
+HTI,Haiti,2013,0,0.0,4
+HND,Honduras,2009,0,0.0,4
+HND,Honduras,2010,0,0.0,4
+HND,Honduras,2011,0,0.0,4
+HND,Honduras,2012,0,0.0,4
+HND,Honduras,2013,1,0.0,4
+HUN,Hungary,2009,0,0.13,4
+HUN,Hungary,2010,0,0.14,4
+HUN,Hungary,2011,0,0.2,4
+HUN,Hungary,2012,0,0.18,4
+HUN,Hungary,2013,0,0.14,4
+IND,India,2009,1,0.41,4
+IND,India,2010,1,0.49,4
+IND,India,2011,0,0.49,4
+IND,India,2012,1,0.45,4
+IND,India,2013,1,0.5,4
+IDN,Indonesia,2009,0,0.0,4
+IDN,Indonesia,2010,0,0.0,4
+IDN,Indonesia,2011,0,0.0,4
+IDN,Indonesia,2012,1,0.18,4
+IDN,Indonesia,2013,1,0.0,4
+IRN,Iran,2009,0,0.19,4
+IRN,Iran,2010,1,0.21,4
+IRN,Iran,2011,0,0.5,4
+IRN,Iran,2012,1,0.18,4
+IRN,Iran,2013,1,0.5,4
+IRQ,Iraq,2009,0,0.23,4
+IRQ,Iraq,2010,0,0.13,4
+IRQ,Iraq,2011,0,0.16,4
+IRQ,Iraq,2012,0,0.13,4
+IRQ,Iraq,2013,0,0.09,4
+IRL,Ireland,2009,0,0.0,4
+IRL,Ireland,2010,0,0.0,4
+IRL,Ireland,2011,0,0.0,4
+IRL,Ireland,2012,0,0.0,4
+IRL,Ireland,2013,0,0.0,4
+ISR,Israel,2009,0,0.18,4
+ISR,Israel,2010,0,0.19,4
+ISR,Israel,2011,0,0.25,4
+ISR,Israel,2012,0,0.41,4
+ISR,Israel,2013,0,0.21,4
+ITA,Italy,2009,0,0.0,4
+ITA,Italy,2010,0,0.0,4
+ITA,Italy,2011,0,0.0,4
+ITA,Italy,2012,0,0.03,4
+ITA,Italy,2013,0,0.0,4
+CIV,Ivory Coast,2013,0,0.02,4
+JAM,Jamaica,2009,0,0.0,4
+JAM,Jamaica,2010,0,0.01,4
+JAM,Jamaica,2011,0,0.02,4
+JAM,Jamaica,2012,0,0.03,4
+JAM,Jamaica,2013,0,0.01,4
+JPN,Japan,2009,0,0.01,4
+JPN,Japan,2010,0,0.03,4
+JPN,Japan,2011,0,0.04,4
+JPN,Japan,2012,0,0.03,4
+JPN,Japan,2013,0,0.0,4
+JOR,Jordan,2009,0,0.29,4
+JOR,Jordan,2010,0,0.26,4
+JOR,Jordan,2011,0,0.25,4
+JOR,Jordan,2012,0,0.28,4
+JOR,Jordan,2013,1,0.1,4
+KAZ,Kazakhstan,2009,0,0.12,4
+KAZ,Kazakhstan,2010,0,0.25,4
+KAZ,Kazakhstan,2012,0,0.08,4
+KAZ,Kazakhstan,2013,1,0.1,4
+KAZ,Kazakstan,2011,0,0.06,4
+KEN,Kenya,2009,0,0.31,4
+KEN,Kenya,2010,0,0.32,4
+KEN,Kenya,2011,0,0.27,4
+KEN,Kenya,2012,1,0.28,4
+KEN,Kenya,2013,1,0.23,4
+KWT,Kuwait,2009,0,0.05,4
+KWT,Kuwait,2010,0,0.05,4
+KWT,Kuwait,2011,0,0.02,4
+KWT,Kuwait,2012,0,0.02,4
+KWT,Kuwait,2013,0,0.02,4
+KGZ,Kyrgysztan,2012,0,0.0,4
+KGZ,Kyrgysztan,2013,0,0.09,4
+KGZ,Kyrgyzstan,2009,0,0.01,4
+KGZ,Kyrgyzstan,2010,0,0.01,4
+LAO,Lao PDR,2010,0,0.0,4
+LAO,Laos,2011,0,0.0,4
+LAO,Laos,2012,0,0.0,4
+LAO,Laos,2013,0,0.01,4
+LVA,Latvia,2009,0,0.01,4
+LVA,Latvia,2010,0,0.02,4
+LVA,Latvia,2011,0,0.04,4
+LVA,Latvia,2012,0,0.04,4
+LVA,Latvia,2013,0,0.04,4
+LBN,Lebanon,2009,0,0.14,4
+LBN,Lebanon,2010,0,0.11,4
+LBN,Lebanon,2011,0,0.14,4
+LBN,Lebanon,2012,0,0.23,4
+LBN,Lebanon,2013,0,0.18,4
+LSO,Lesotho,2009,0,0.12,4
+LSO,Lesotho,2010,0,0.14,4
+LSO,Lesotho,2011,0,0.08,4
+LSO,Lesotho,2012,0,0.07,4
+LSO,Lesotho,2013,0,0.06,4
+LBY,Libya,2009,0,0.02,4
+LBY,Libya,2010,0,0.02,4
+LBY,Libya,2011,0,0.01,4
+LBY,Libya,2012,0,0.03,4
+LBY,Libya,2013,0,0.0,4
+LTU,Lithuania,2009,0,0.0,4
+LTU,Lithuania,2010,0,0.0,4
+LTU,Lithuania,2011,0,0.0,4
+LTU,Lithuania,2012,0,0.0,4
+LTU,Lithuania,2013,0,0.0,4
+LUX,Luxembourg,2009,0,0.0,4
+LUX,Luxembourg,2010,0,0.0,4
+LUX,Luxembourg,2011,0,0.0,4
+LUX,Luxembourg,2012,0,0.0,4
+LUX,Luxembourg,2013,0,0.0,4
+MKD,Macedonia,2009,0,0.01,4
+MKD,Macedonia,2010,0,0.15,4
+MKD,Macedonia,2011,0,0.02,4
+MKD,Macedonia,2012,0,0.02,4
+MKD,Macedonia,2013,0,0.02,4
+MYS,Malaysia,2009,0,0.0,4
+MYS,Malaysia,2010,0,0.0,4
+MYS,Malaysia,2011,0,0.0,4
+MYS,Malaysia,2012,0,0.01,4
+MYS,Malaysia,2013,0,0.0,4
+MLI,Mali,2009,0,0.11,4
+MLI,Mali,2010,0,0.14,4
+MLI,Mali,2011,0,0.14,4
+MLI,Mali,2012,1,0.28,4
+MLI,Mali,2013,0,0.14,4
+MRT,Mauritania,2009,0,0.16,4
+MRT,Mauritania,2010,0,0.22,4
+MRT,Mauritania,2011,0,0.19,4
+MRT,Mauritania,2012,1,0.22,4
+MRT,Mauritania,2013,0,0.13,4
+MEX,Mexico,2009,0,0.11,4
+MEX,Mexico,2010,0,0.1,4
+MEX,Mexico,2011,0,0.07,4
+MEX,Mexico,2012,0,0.04,4
+MEX,Mexico,2013,0,0.04,4
+MDA,Moldova,2009,0,0.0,4
+MDA,Moldova,2010,0,0.01,4
+MDA,Moldova,2011,0,0.0,4
+MDA,Moldova,2012,0,0.01,4
+MDA,Moldova,2013,0,0.0,4
+MNG,Mongolia,2009,0,0.02,4
+MNG,Mongolia,2010,0,0.04,4
+MNG,Mongolia,2011,0,0.02,4
+MNG,Mongolia,2012,0,0.03,4
+MNG,Mongolia,2013,0,0.06,4
+MNE,Montenegro,2013,0,0.01,4
+MAR,Morocco,2009,0,0.1,4
+MAR,Morocco,2010,0,0.07,4
+MAR,Morocco,2011,0,0.06,4
+MAR,Morocco,2012,1,0.04,4
+MAR,Morocco,2013,0,0.11,4
+MOZ,Mozambique,2009,0,0.01,4
+MOZ,Mozambique,2010,0,0.0,4
+MOZ,Mozambique,2011,0,0.01,4
+MOZ,Mozambique,2012,0,0.01,4
+MOZ,Mozambique,2013,0,0.0,4
+MMR,Myanmar,2010,0,0.25,4
+MMR,Myanmar,2012,0,0.24,4
+MMR,Myanmar (Burma),2011,0,0.0,4
+MMR,Myanmar (Burma),2013,0,0.0,4
+NAM,Namibia,2009,0,0.04,4
+NAM,Namibia,2010,0,0.05,4
+NAM,Namibia,2011,0,0.05,4
+NAM,Namibia,2012,0,0.04,4
+NAM,Namibia,2013,0,0.05,4
+NPL,Nepal,2009,0,0.0,4
+NPL,Nepal,2010,0,0.0,4
+NPL,Nepal,2011,0,0.01,4
+NPL,Nepal,2012,0,0.0,4
+NPL,Nepal,2013,0,0.0,4
+NLD,Netherlands,2009,0,0.02,4
+NLD,Netherlands,2010,0,0.02,4
+NLD,Netherlands,2011,0,0.02,4
+NLD,Netherlands,2012,0,0.02,4
+NLD,Netherlands,2013,0,0.21,4
+NIC,Nicaragua,2009,0,0.0,4
+NIC,Nicaragua,2010,0,0.0,4
+NIC,Nicaragua,2011,0,0.0,4
+NIC,Nicaragua,2012,0,0.0,4
+NIC,Nicaragua,2013,0,0.09,4
+NER,Niger,2009,0,0.0,4
+NER,Niger,2010,0,0.02,4
+NER,Niger,2011,0,0.0,4
+NER,Niger,2012,0,0.0,4
+NER,Niger,2013,0,0.0,4
+NGA,Nigeria,2009,0,0.2,4
+NGA,Nigeria,2010,0,0.17,4
+NGA,Nigeria,2011,1,0.27,4
+NGA,Nigeria,2012,0,0.2,4
+NGA,Nigeria,2013,0,0.19,4
+NOR,Norway,2009,0,0.0,4
+NOR,Norway,2010,0,0.0,4
+NOR,Norway,2011,0,0.0,4
+NOR,Norway,2012,0,0.0,4
+NOR,Norway,2013,0,0.0,4
+OMN,Oman,2009,0,0.02,4
+OMN,Oman,2010,0,0.05,4
+OMN,Oman,2011,0,0.11,4
+OMN,Oman,2012,0,0.1,4
+OMN,Oman,2013,0,0.1,4
+PAK,Pakistan,2009,0,0.22,4
+PAK,Pakistan,2010,1,0.23,4
+PAK,Pakistan,2011,0,0.24,4
+PAK,Pakistan,2012,1,0.31,4
+PAK,Pakistan,2013,1,0.4,4
+PSE,Palestine,2009,0,0.07,4
+PSE,Palestine,2010,0,0.08,4
+PSE,Palestine,2011,0,0.07,4
+PSE,Palestine,2012,0,0.17,4
+PSE,Palestine,2013,0,0.06,4
+PRY,Paraguay,2009,0,0.01,4
+PRY,Paraguay,2010,0,0.0,4
+PRY,Paraguay,2011,0,0.01,4
+PRY,Paraguay,2012,0,0.0,4
+PRY,Paraguay,2013,0,0.02,4
+PER,Peru,2009,0,0.0,4
+PER,Peru,2010,1,0.0,4
+PER,Peru,2011,0,0.02,4
+PER,Peru,2012,1,0.02,4
+PER,Peru,2013,0,0.0,4
+PHL,Philippines,2009,0,0.01,4
+PHL,Philippines,2010,0,0.0,4
+PHL,Philippines,2011,0,0.0,4
+PHL,Philippines,2012,0,0.0,4
+PHL,Philippines,2013,0,0.0,4
+POL,Poland,2009,0,0.0,4
+POL,Poland,2010,0,0.0,4
+POL,Poland,2011,0,0.01,4
+POL,Poland,2012,0,0.01,4
+POL,Poland,2013,0,0.01,4
+PRT,Portugal,2009,0,0.0,4
+PRT,Portugal,2010,0,0.0,4
+PRT,Portugal,2011,0,0.0,4
+PRT,Portugal,2012,0,0.02,4
+PRT,Portugal,2013,0,0.01,4
+PRI,Puerto Rico,2009,0,0.05,4
+PRI,Puerto Rico,2010,0,0.08,4
+PRI,Puerto Rico,2011,0,0.06,4
+PRI,Puerto Rico,2012,0,0.11,4
+PRI,Puerto Rico,2013,0,0.09,4
+QAT,Qatar,2009,0,0.06,4
+QAT,Qatar,2010,0,0.02,4
+QAT,Qatar,2011,0,0.02,4
+QAT,Qatar,2012,0,0.02,4
+QAT,Qatar,2013,0,0.01,4
+KOR,Republic of Korea,2010,0,0.04,4
+ROU,Romania,2009,0,0.0,4
+ROU,Romania,2010,0,0.03,4
+ROU,Romania,2011,0,0.06,4
+ROU,Romania,2012,0,0.0,4
+ROU,Romania,2013,0,0.0,4
+RUS,Russia,2011,0,0.3,4
+RUS,Russia,2012,0,0.02,4
+RUS,Russia,2013,0,0.04,4
+RWA,Rwanda,2009,0,0.0,4
+RWA,Rwanda,2010,0,0.1,4
+RWA,Rwanda,2011,0,0.0,4
+RWA,Rwanda,2012,0,0.0,4
+RWA,Rwanda,2013,0,0.01,4
+SAU,Saudi Arabia,2009,0,0.05,4
+SAU,Saudi Arabia,2010,0,0.04,4
+SAU,Saudi Arabia,2011,0,0.1,4
+SAU,Saudi Arabia,2012,0,0.06,4
+SAU,Saudi Arabia,2013,0,0.04,4
+SEN,Senegal,2009,0,0.03,4
+SEN,Senegal,2010,0,0.06,4
+SEN,Senegal,2011,0,0.02,4
+SEN,Senegal,2012,0,0.02,4
+SEN,Senegal,2013,0,0.02,4
+SRB,Serbia,2009,0,0.0,4
+SRB,Serbia,2010,0,0.01,4
+SRB,Serbia,2011,0,0.04,4
+SRB,Serbia,2012,0,0.05,4
+SRB,Serbia,2013,0,0.0,4
+SVN,Slovenia,2009,0,0.02,4
+SVN,Slovenia,2010,0,0.01,4
+SVN,Slovenia,2011,0,0.0,4
+SVN,Slovenia,2012,0,0.0,4
+SVN,Slovenia,2013,0,0.01,4
+SOM,Somalia,2013,1,0.17,4
+ZAF,South Africa,2012,1,0.49,4
+ZAF,South Africa (Namibia),2009,0,0.06,4
+ZAF,South Africa (Namibia),2010,0,0.03,4
+ZAF,South Africa (Namibia),2011,0,0.01,4
+ZAF,South Africa (Namibia),2013,0,0.05,4
+KOR,South Korea,2009,0,0.01,4
+KOR,South Korea,2011,0,0.0,4
+KOR,South Korea,2012,0,0.04,4
+KOR,South Korea,2013,0,0.01,4
+SSD,South Sudan,2012,1,0.13,4
+SSD,South Sudan,2013,0,0.03,4
+ZWE,Southern Rhodesia,2009,0,0.0,4
+ZWE,Southern Rhodesia,2010,0,0.01,4
+ZWE,Southern Rhodesia,2011,0,0.0,4
+ZWE,Southern Rhodesia,2012,0,0.0,4
+ZWE,Southern Rhodesia,2013,0,0.01,4
+UZB,Soviet Union (Uzbekistan),2013,0,0.04,4
+ESP,Spain,2009,0,0.0,4
+ESP,Spain,2010,0,0.0,4
+ESP,Spain,2011,0,0.0,4
+ESP,Spain,2012,0,0.08,4
+ESP,Spain,2013,0,0.0,4
+LKA,Sri Lanka,2009,0,0.03,4
+SDN,Sudan,2009,0,0.14,4
+SDN,Sudan,2010,0,0.21,4
+SDN,Sudan,2011,0,0.16,4
+SDN,Sudan,2012,0,0.27,4
+SDN,Sudan,2013,0,0.16,4
+SUR,Suriname,2009,0,0.04,4
+SUR,Suriname,2010,0,0.01,4
+SWZ,Swaziland,2009,0,0.01,4
+SWZ,Swaziland,2010,0,0.0,4
+SWZ,Swaziland,2011,0,0.0,4
+SWZ,Swaziland,2012,0,0.0,4
+SWZ,Swaziland,2013,0,0.0,4
+CHE,Switzerland,2009,0,0.09,4
+CHE,Switzerland,2010,0,0.0,4
+CHE,Switzerland,2011,0,0.06,4
+CHE,Switzerland,2012,0,0.0,4
+CHE,Switzerland,2013,0,0.0,4
+SYR,Syria,2009,0,0.48,4
+SYR,Syria,2010,0,0.23,4
+SYR,Syria,2011,1,0.32,4
+SYR,Syria,2012,0,0.16,4
+SYR,Syria,2013,0,0.19,4
+TJK,Tajikistan,2009,0,0.04,4
+TJK,Tajikistan,2010,0,0.17,4
+TJK,Tajikistan,2011,0,0.38,4
+TJK,Tajikistan,2012,0,0.04,4
+TJK,Tajikistan,2013,0,0.18,4
+TZA,Tanzania,2009,0,0.03,4
+TZA,Tanzania,2010,0,0.25,4
+TZA,Tanzania,2011,1,0.14,4
+TZA,Tanzania,2012,1,0.2,4
+TZA,Tanzania,2013,1,0.45,4
+THA,Thailand,2009,0,0.0,4
+THA,Thailand,2010,0,0.07,4
+THA,Thailand,2011,0,0.0,4
+THA,Thailand,2012,0,0.07,4
+THA,Thailand,2013,0,0.09,4
+TGO,Togo,2009,0,0.0,4
+TGO,Togo,2010,0,0.01,4
+TGO,Togo,2011,0,0.01,4
+TGO,Togo,2012,0,0.0,4
+TGO,Togo,2013,0,0.0,4
+TUN,Tunisia,2009,0,0.05,4
+TUN,Tunisia,2010,0,0.04,4
+TUN,Tunisia,2011,0,0.01,4
+TUN,Tunisia,2012,1,0.1,4
+TUN,Tunisia,2013,0,0.09,4
+TUR,Turkey,2009,0,0.43,4
+TUR,Turkey,2010,0,0.13,4
+TUR,Turkey,2011,0,0.15,4
+TUR,Turkey,2012,0,0.05,4
+TUR,Turkey,2013,0,0.07,4
+TKM,Turkmenistan,2010,0,0.12,4
+RUS,USSR,2009,0,0.05,4
+RUS,USSR,2010,0,0.05,4
+TKM,USSR (Turkmenistan),2009,0,0.04,4
+TKM,USSR (Turkmenistan),2011,0,0.05,4
+TKM,USSR (Turkmenistan),2012,0,0.05,4
+TKM,USSR (Turkmenistan),2013,0,0.03,4
+UGA,Uganda,2009,0,0.01,4
+UGA,Uganda,2010,0,0.05,4
+UGA,Uganda,2011,0,0.01,4
+UGA,Uganda,2012,1,0.03,4
+UGA,Uganda,2013,0,0.09,4
+UKR,Ukraine,2009,0,0.06,4
+UKR,Ukraine,2010,0,0.02,4
+UKR,Ukraine,2011,0,0.13,4
+UKR,Ukraine,2012,0,0.05,4
+UKR,Ukraine,2013,0,0.05,4
+ARE,United Arab Emirates,2009,0,0.03,4
+ARE,United Arab Emirates,2010,0,0.06,4
+ARE,United Arab Emirates,2011,0,0.07,4
+ARE,United Arab Emirates,2012,0,0.07,4
+ARE,United Arab Emirates,2013,0,0.06,4
+GBR,United Kingdom,2010,0,0.04,4
+USA,United States,2009,0,0.51,4
+USA,United States,2010,0,0.64,4
+USA,United States,2011,0,0.5,4
+USA,United States,2012,0,0.77,4
+USA,United States,2013,0,0.77,4
+URY,Uruguay,2009,0,0.29,4
+URY,Uruguay,2010,0,0.25,4
+URY,Uruguay,2011,0,0.23,4
+URY,Uruguay,2012,0,0.25,4
+URY,Uruguay,2013,0,0.23,4
+UZB,Uzbekistan,2009,0,0.22,4
+UZB,Uzbekistan,2010,0,0.47,4
+UZB,Uzbekistan,2011,0,0.54,4
+UZB,Uzbekistan,2012,1,0.24,4
+VNM,Vietnam,2009,0,0.04,4
+VNM,Vietnam,2010,0,0.04,4
+VNM,Vietnam,2011,0,0.02,4
+VNM,Vietnam,2012,0,0.01,4
+VNM,Vietnam,2013,0,0.01,4
+YEM,Yemen,2010,0,0.39,4
+YEM,Yemen,2011,0,0.4,4
+YEM,Yemen,2012,0,0.4,4
+YEM,Yemen,2013,1,0.41,4
+MNE,Yugoslavia (Montenegro),2009,0,0.0,4
+MNE,Yugoslavia (Montenegro),2010,0,0.0,4
+MNE,Yugoslavia (Montenegro),2011,0,0.0,4
+MNE,Yugoslavia (Montenegro),2012,0,0.0,4
+ZMB,Zambia,2009,0,0.02,4
+ZMB,Zambia,2010,0,0.0,4
+ZMB,Zambia,2011,0,0.0,4
+ZMB,Zambia,2012,0,0.0,4
+ZMB,Zambia,2013,0,0.01,4
+COG,the Republic of Congo,2009,0,0.08,4
+COG,the Republic of Congo,2010,0,0.03,4
+COG,the Republic of Congo,2011,0,0.03,4
+COG,the Republic of Congo,2012,0,0.04,4
+COG,the Republic of Congo,2013,0,0.03,4
+ALB,Albania,2015,0,0.03,5
+ALB,Albania,2016,0,0.04,5
+ALB,Albania,2017,0,0.04,5
+ALB,Albania,2018,0,0.05,5
+ALB,Albania,2019,0,0.04,5
+DZA,Algeria,2015,0,0.07,5
+DZA,Algeria,2016,0,0.13,5
+DZA,Algeria,2018,0,0.05,5
+DZA,Algeria,2019,0,0.07,5
+AGO,Angola,2015,0,0.04,5
+AGO,Angola,2016,0,0.0,5
+AGO,Angola,2017,0,0.03,5
+AGO,Angola,2018,0,0.02,5
+AGO,Angola,2019,0,0.02,5
+ARG,Argentina,2015,0,0.01,5
+ARG,Argentina,2016,0,0.01,5
+ARG,Argentina,2017,0,0.01,5
+ARG,Argentina,2018,0,0.01,5
+ARG,Argentina,2019,0,0.01,5
+ARM,Armenia,2015,0,0.07,5
+ARM,Armenia,2016,0,0.04,5
+ARM,Armenia,2017,0,0.01,5
+ARM,Armenia,2018,0,0.03,5
+ARM,Armenia,2019,0,0.01,5
+AUS,Australia,2015,0,0.1,5
+AUS,Australia,2016,0,0.11,5
+AUS,Australia,2017,0,0.08,5
+AUS,Australia,2018,0,0.08,5
+AUS,Australia,2019,0,0.09,5
+AUT,Austria,2015,0,0.0,5
+AUT,Austria,2016,0,0.01,5
+AUT,Austria,2017,0,0.0,5
+AUT,Austria,2018,0,0.0,5
+AUT,Austria,2019,0,0.01,5
+AZE,Azerbaijan,2015,0,0.02,5
+AZE,Azerbaijan,2016,0,0.01,5
+AZE,Azerbaijan,2017,0,0.06,5
+AZE,Azerbaijan,2018,0,0.02,5
+AZE,Azerbaijan,2019,0,0.05,5
+BGD,Bangladesh,2015,0,0.11,5
+BGD,Bangladesh,2016,0,0.13,5
+BGD,Bangladesh,2017,1,0.19,5
+BGD,Bangladesh,2018,0,0.14,5
+BGD,Bangladesh,2019,0,0.13,5
+BLR,Belarus,2015,0,0.02,5
+BLR,Belarus,2016,0,0.03,5
+BLR,Belarus,2017,0,0.02,5
+BLR,Belarus,2018,0,0.02,5
+BLR,Belarus,2019,0,0.02,5
+BEL,Belgium,2015,0,0.01,5
+BEL,Belgium,2016,0,0.0,5
+BEL,Belgium,2017,0,0.01,5
+BEL,Belgium,2018,0,0.01,5
+BEL,Belgium,2019,0,0.02,5
+BEN,Benin,2017,0,0.0,5
+BTN,Bhutan,2015,0,0.01,5
+BTN,Bhutan,2016,0,0.0,5
+BTN,Bhutan,2017,0,0.0,5
+BTN,Bhutan,2018,0,0.0,5
+BTN,Bhutan,2019,0,0.0,5
+GNB,Bissau,2015,0,0.0,5
+GNB,Bissau,2016,0,0.03,5
+GNB,Bissau,2017,0,0.02,5
+GNB,Bissau,2018,0,0.0,5
+GNB,Bissau,2019,0,0.01,5
+BOL,Bolivia,2015,0,0.0,5
+BOL,Bolivia,2016,0,0.02,5
+BOL,Bolivia,2017,0,0.01,5
+BOL,Bolivia,2018,0,0.0,5
+BOL,Bolivia,2019,0,0.0,5
+BIH,Bosnia and Herzegovina,2015,0,0.01,5
+BIH,Bosnia and Herzegovina,2016,0,0.0,5
+BIH,Bosnia and Herzegovina,2017,0,0.0,5
+BIH,Bosnia and Herzegovina,2018,0,0.0,5
+BIH,Bosnia and Herzegovina,2019,0,0.0,5
+BWA,Botswana,2015,0,0.01,5
+BWA,Botswana,2016,0,0.01,5
+BWA,Botswana,2017,0,0.0,5
+BWA,Botswana,2018,0,0.0,5
+BWA,Botswana,2019,0,0.03,5
+BRA,Brazil,2015,0,0.07,5
+BRA,Brazil,2016,0,0.05,5
+BRA,Brazil,2017,0,0.06,5
+BRA,Brazil,2018,0,0.06,5
+BRA,Brazil,2019,0,0.06,5
+BGR,Bulgaria,2015,0,0.0,5
+BGR,Bulgaria,2016,0,0.01,5
+BGR,Bulgaria,2017,0,0.0,5
+BGR,Bulgaria,2018,0,0.0,5
+BGR,Bulgaria,2019,0,0.02,5
+BFA,Burkina Faso,2015,0,0.02,5
+BFA,Burkina Faso,2016,0,0.02,5
+BFA,Burkina Faso,2017,0,0.01,5
+BFA,Burkina Faso,2018,0,0.01,5
+BFA,Burkina Faso,2019,0,0.02,5
+BDI,Burundi,2015,0,0.0,5
+BDI,Burundi,2016,0,0.0,5
+BDI,Burundi,2017,0,0.02,5
+BDI,Burundi,2018,0,0.0,5
+BDI,Burundi,2019,0,0.03,5
+KHM,Cambodia,2015,0,0.04,5
+KHM,Cambodia,2017,0,0.0,5
+KHM,Cambodia,2018,0,0.0,5
+KHM,Cambodia,2019,0,0.0,5
+CMR,Cameroon,2015,0,0.01,5
+CMR,Cameroon,2016,0,0.05,5
+CMR,Cameroon,2017,0,0.01,5
+CMR,Cameroon,2018,0,0.03,5
+CMR,Cameroon,2019,0,0.01,5
+CAN,Canada,2015,0,0.03,5
+CAN,Canada,2016,0,0.04,5
+CAN,Canada,2017,0,0.01,5
+CAN,Canada,2018,0,0.01,5
+CAN,Canada,2019,0,0.04,5
+TCD,Chad,2015,0,0.0,5
+TCD,Chad,2016,0,0.32,5
+TCD,Chad,2017,0,0.02,5
+TCD,Chad,2018,0,0.05,5
+TCD,Chad,2019,1,0.03,5
+CHL,Chile,2015,0,0.01,5
+CHL,Chile,2016,0,0.01,5
+CHL,Chile,2017,0,0.01,5
+CHL,Chile,2018,0,0.02,5
+CHL,Chile,2019,0,0.02,5
+CHN,China,2015,0,0.38,5
+CHN,China,2016,0,0.28,5
+CHN,China,2017,0,0.16,5
+CHN,China,2018,0,0.3,5
+CHN,China,2019,0,0.13,5
+COL,Columbia,2015,0,0.0,5
+COL,Columbia,2016,0,0.0,5
+COL,Columbia,2017,0,0.0,5
+COL,Columbia,2018,0,0.0,5
+COL,Columbia,2019,0,0.0,5
+COD,Congo Democratic Republic of the (Brazzaville),2015,0,0.0,5
+COD,Congo Democratic Republic of the (Brazzaville),2016,0,0.0,5
+COD,Congo Democratic Republic of the (Brazzaville),2018,0,0.0,5
+CRI,Costa Rica,2015,0,0.0,5
+CRI,Costa Rica,2016,0,0.0,5
+CRI,Costa Rica,2017,0,0.0,5
+CRI,Costa Rica,2018,0,0.0,5
+CRI,Costa Rica,2019,0,0.0,5
+CIV,Cote D’Ivoire,2015,0,0.03,5
+CIV,Cote D’Ivoire,2016,0,0.04,5
+CIV,Cote D’Ivoire,2017,0,0.01,5
+CIV,Cote D’Ivoire,2018,0,0.04,5
+CIV,Cote D’Ivoire,2019,0,0.02,5
+HRV,Croatia,2015,0,0.0,5
+HRV,Croatia,2016,0,0.0,5
+HRV,Croatia,2017,0,0.02,5
+HRV,Croatia,2018,0,0.01,5
+HRV,Croatia,2019,0,0.0,5
+CUB,Cuba,2015,0,0.01,5
+CUB,Cuba,2016,0,0.02,5
+CUB,Cuba,2017,0,0.0,5
+CUB,Cuba,2018,0,0.0,5
+CUB,Cuba,2019,0,0.0,5
+CYP,Cyprus,2015,0,0.04,5
+CYP,Cyprus,2016,0,0.03,5
+CYP,Cyprus,2017,0,0.03,5
+CYP,Cyprus,2018,0,0.06,5
+CYP,Cyprus,2019,0,0.1,5
+CZE,Czechoslovakia (Czech),2015,0,0.03,5
+CZE,Czechoslovakia (Czech),2016,0,0.0,5
+CZE,Czechoslovakia (Czech),2017,0,0.0,5
+CZE,Czechoslovakia (Czech),2018,0,0.01,5
+CZE,Czechoslovakia (Czech),2019,0,0.0,5
+SVK,Czechoslovakia (Slovak Federation),2015,0,0.01,5
+SVK,Czechoslovakia (Slovak Federation),2016,0,0.0,5
+SVK,Czechoslovakia (Slovak Federation),2017,0,0.0,5
+SVK,Czechoslovakia (Slovak Federation),2018,0,0.01,5
+SVK,Czechoslovakia (Slovak Federation),2019,0,0.0,5
+COD,Democratic Republic of Congo,2017,1,0.34,5
+DJI,Djibouti,2015,0,0.23,5
+DJI,Djibouti,2016,0,0.24,5
+DJI,Djibouti,2017,0,0.23,5
+DJI,Djibouti,2018,0,0.23,5
+DJI,Djibouti,2019,0,0.26,5
+DOM,Dominican Republic,2015,0,0.03,5
+DOM,Dominican Republic,2016,0,0.01,5
+DOM,Dominican Republic,2017,0,0.01,5
+DOM,Dominican Republic,2018,0,0.01,5
+DOM,Dominican Republic,2019,0,0.01,5
+TLS,East Timor,2015,0,0.1,5
+TLS,East Timor,2016,0,0.06,5
+TLS,East Timor,2017,0,0.08,5
+TLS,East Timor,2018,0,0.09,5
+TLS,East Timor,2019,0,0.0,5
+ECU,Ecuador,2015,0,0.02,5
+ECU,Ecuador,2016,0,0.0,5
+ECU,Ecuador,2017,0,0.01,5
+ECU,Ecuador,2018,0,0.0,5
+ECU,Ecuador,2019,0,0.0,5
+EGY,Egypt,2015,1,0.17,5
+EGY,Egypt,2016,0,0.21,5
+EGY,Egypt,2017,0,0.24,5
+EGY,Egypt,2018,0,0.25,5
+EGY,Egypt,2019,0,0.16,5
+SLV,El Salvador,2015,0,0.04,5
+SLV,El Salvador,2016,0,0.02,5
+SLV,El Salvador,2017,0,0.02,5
+SLV,El Salvador,2018,0,0.02,5
+SLV,El Salvador,2019,0,0.04,5
+ETH,Ethiopia,2015,0,0.1,5
+ETH,Ethiopia,2016,0,0.06,5
+ETH,Ethiopia,2017,0,0.28,5
+ETH,Ethiopia,2018,1,0.3,5
+ETH,Ethiopia,2019,0,0.16,5
+EUU,European Union,2015,0,0.0,5
+EUU,European Union,2017,0,0.0,5
+EUU,European Union,2019,0,0.11,5
+FIN,Finland,2015,0,0.0,5
+FIN,Finland,2016,0,0.0,5
+FIN,Finland,2017,0,0.02,5
+FIN,Finland,2018,0,0.04,5
+FIN,Finland,2019,0,0.02,5
+FRA,France,2015,0,0.02,5
+FRA,France,2016,0,0.04,5
+FRA,France,2018,0,0.07,5
+FRA,France,2019,0,0.02,5
+GMB,Gambia,2015,0,0.07,5
+GMB,Gambia,2016,0,0.16,5
+GMB,Gambia,2017,0,0.07,5
+GMB,Gambia,2018,0,0.06,5
+GMB,Gambia,2019,0,0.06,5
+GEO,Georgia,2015,0,0.03,5
+GEO,Georgia,2016,0,0.06,5
+GEO,Georgia,2017,0,0.05,5
+GEO,Georgia,2018,0,0.05,5
+GEO,Georgia,2019,0,0.05,5
+DEU,Germany,2015,0,0.0,5
+DEU,Germany,2016,0,0.0,5
+DEU,Germany,2017,0,0.0,5
+DEU,Germany,2018,0,0.01,5
+DEU,Germany,2019,0,0.0,5
+GHA,Ghana,2015,0,0.01,5
+GHA,Ghana,2016,0,0.01,5
+GHA,Ghana,2017,1,0.06,5
+GHA,Ghana,2018,0,0.03,5
+GHA,Ghana,2019,1,0.35,5
+GBR,Great Britain,2015,0,0.0,5
+GBR,Great Britain,2016,0,0.01,5
+GBR,Great Britain,2018,0,0.01,5
+GBR,Great Britain,2019,0,0.01,5
+GRC,Greece,2015,0,0.0,5
+GRC,Greece,2016,0,0.0,5
+GRC,Greece,2017,0,0.0,5
+GRC,Greece,2018,0,0.0,5
+GRC,Greece,2019,0,0.0,5
+GTM,Guatemala,2015,0,0.04,5
+GTM,Guatemala,2016,0,0.01,5
+GTM,Guatemala,2017,1,0.12,5
+GTM,Guatemala,2018,1,0.16,5
+GTM,Guatemala,2019,0,0.1,5
+GIN,Guinea,2015,0,0.01,5
+GIN,Guinea,2016,0,0.01,5
+GIN,Guinea,2017,1,0.02,5
+GIN,Guinea,2018,0,0.04,5
+GIN,Guinea,2019,0,0.04,5
+HTI,Haiti,2015,0,0.01,5
+HTI,Haiti,2016,0,0.01,5
+HTI,Haiti,2017,0,0.01,5
+HTI,Haiti,2018,0,0.02,5
+HTI,Haiti,2019,0,0.01,5
+HND,Honduras,2015,0,0.01,5
+HND,Honduras,2016,1,0.02,5
+HND,Honduras,2017,0,0.01,5
+HND,Honduras,2018,0,0.01,5
+HND,Honduras,2019,0,0.01,5
+HUN,Hungary,2015,0,0.07,5
+HUN,Hungary,2016,0,0.06,5
+HUN,Hungary,2017,0,0.06,5
+HUN,Hungary,2018,0,0.06,5
+HUN,Hungary,2019,0,0.07,5
+IND,India,2015,0,0.4,5
+IND,India,2016,1,0.39,5
+IND,India,2017,1,0.4,5
+IND,India,2018,1,0.43,5
+IND,India,2019,1,0.4,5
+IDN,Indonesia,2015,0,0.01,5
+IDN,Indonesia,2017,0,0.0,5
+IDN,Indonesia,2018,0,0.0,5
+IDN,Indonesia,2019,0,0.0,5
+IRN,Iran,2015,0,0.57,5
+IRN,Iran,2016,0,0.29,5
+IRN,Iran,2017,0,0.34,5
+IRN,Iran,2018,1,0.34,5
+IRN,Iran,2019,0,0.22,5
+IRQ,Iraq,2015,0,0.06,5
+IRQ,Iraq,2016,0,0.12,5
+IRQ,Iraq,2017,1,0.05,5
+IRQ,Iraq,2018,1,0.06,5
+IRQ,Iraq,2019,0,0.04,5
+IRL,Ireland,2015,0,0.06,5
+IRL,Ireland,2016,0,0.01,5
+IRL,Ireland,2017,0,0.0,5
+IRL,Ireland,2018,0,0.0,5
+IRL,Ireland,2019,0,0.0,5
+ISR,Israel,2015,0,0.24,5
+ISR,Israel,2016,0,0.25,5
+ISR,Israel,2017,0,0.28,5
+ISR,Israel,2018,0,0.2,5
+ISR,Israel,2019,0,0.2,5
+ITA,Italy,2015,0,0.02,5
+ITA,Italy,2016,0,0.0,5
+ITA,Italy,2017,0,0.01,5
+ITA,Italy,2018,0,0.0,5
+ITA,Italy,2019,0,0.0,5
+JAM,Jamaica,2015,0,0.0,5
+JAM,Jamaica,2016,0,0.0,5
+JAM,Jamaica,2017,0,0.0,5
+JAM,Jamaica,2018,0,0.01,5
+JAM,Jamaica,2019,0,0.02,5
+JPN,Japan,2015,0,0.01,5
+JPN,Japan,2016,0,0.0,5
+JPN,Japan,2017,0,0.04,5
+JPN,Japan,2018,0,0.0,5
+JPN,Japan,2019,0,0.0,5
+JOR,Jordan,2015,0,0.02,5
+JOR,Jordan,2016,0,0.04,5
+JOR,Jordan,2017,1,0.13,5
+JOR,Jordan,2018,0,0.09,5
+JOR,Jordan,2019,0,0.05,5
+KAZ,Kazakhstan,2018,0,0.14,5
+KAZ,Kazakstan,2015,0,0.0,5
+KAZ,Kazakstan,2016,0,0.02,5
+KAZ,Kazakstan,2017,0,0.0,5
+KAZ,Kazakstan,2019,0,0.04,5
+KEN,Kenya,2015,1,0.37,5
+KEN,Kenya,2016,0,0.14,5
+KEN,Kenya,2017,1,0.26,5
+KEN,Kenya,2018,1,0.22,5
+KEN,Kenya,2019,1,0.29,5
+KWT,Kuwait,2015,0,0.0,5
+KWT,Kuwait,2016,0,0.05,5
+KWT,Kuwait,2017,0,0.0,5
+KWT,Kuwait,2018,0,0.01,5
+KWT,Kuwait,2019,0,0.01,5
+KGZ,Kyrgysztan,2015,0,0.0,5
+KGZ,Kyrgyzstan,2016,0,0.03,5
+KGZ,Kyrgyzstan,2017,0,0.02,5
+KGZ,Kyrgyzstan,2018,1,0.14,5
+KGZ,Kyrgyzstan,2019,0,0.24,5
+LAO,Lao PDR,2015,0,0.02,5
+LAO,Lao PDR,2016,0,0.0,5
+LVA,Latvia,2015,0,0.0,5
+LVA,Latvia,2016,0,0.0,5
+LVA,Latvia,2017,0,0.0,5
+LVA,Latvia,2018,0,0.05,5
+LVA,Latvia,2019,0,0.0,5
+LBN,Lebanon,2015,0,0.03,5
+LBN,Lebanon,2016,0,0.06,5
+LBN,Lebanon,2017,0,0.07,5
+LBN,Lebanon,2018,0,0.06,5
+LBN,Lebanon,2019,0,0.09,5
+LSO,Lesotho,2015,0,0.03,5
+LSO,Lesotho,2016,0,0.02,5
+LSO,Lesotho,2017,0,0.03,5
+LSO,Lesotho,2018,0,0.04,5
+LSO,Lesotho,2019,0,0.01,5
+LBY,Libya,2015,0,0.05,5
+LBY,Libya,2016,0,0.06,5
+LBY,Libya,2017,0,0.0,5
+LBY,Libya,2018,0,0.0,5
+LBY,Libya,2019,0,0.0,5
+LTU,Lithuania,2015,0,0.01,5
+LTU,Lithuania,2016,0,0.0,5
+LTU,Lithuania,2017,0,0.0,5
+LTU,Lithuania,2018,0,0.0,5
+LTU,Lithuania,2019,0,0.0,5
+LUX,Luxembourg,2015,0,0.0,5
+LUX,Luxembourg,2016,0,0.0,5
+LUX,Luxembourg,2017,0,0.0,5
+LUX,Luxembourg,2018,0,0.0,5
+LUX,Luxembourg,2019,0,0.0,5
+MKD,Macedonia,2015,0,0.01,5
+MKD,Macedonia,2016,0,0.01,5
+MKD,Macedonia,2017,0,0.0,5
+MKD,Macedonia,2018,0,0.02,5
+MKD,Macedonia,2019,0,0.0,5
+MYS,Malaysia,2015,0,0.0,5
+MYS,Malaysia,2016,0,0.0,5
+MYS,Malaysia,2017,0,0.0,5
+MYS,Malaysia,2018,0,0.01,5
+MYS,Malaysia,2019,0,0.0,5
+MLI,Mali,2015,0,0.13,5
+MLI,Mali,2016,0,0.15,5
+MLI,Mali,2017,0,0.16,5
+MLI,Mali,2018,1,0.28,5
+MLI,Mali,2019,1,0.27,5
+MRT,Mauritania,2015,0,0.15,5
+MRT,Mauritania,2016,0,0.03,5
+MRT,Mauritania,2017,0,0.05,5
+MRT,Mauritania,2018,0,0.03,5
+MRT,Mauritania,2019,0,0.02,5
+MEX,Mexico,2015,0,0.03,5
+MEX,Mexico,2016,0,0.03,5
+MEX,Mexico,2017,1,0.25,5
+MEX,Mexico,2018,0,0.04,5
+MEX,Mexico,2019,1,0.04,5
+MDA,Moldova,2015,0,0.02,5
+MDA,Moldova,2016,0,0.0,5
+MDA,Moldova,2017,0,0.0,5
+MDA,Moldova,2018,0,0.01,5
+MDA,Moldova,2019,0,0.0,5
+MNG,Mongolia,2015,0,0.04,5
+MNG,Mongolia,2016,0,0.02,5
+MNG,Mongolia,2017,0,0.03,5
+MNG,Mongolia,2018,0,0.01,5
+MNG,Mongolia,2019,0,0.01,5
+MAR,Morocco,2015,0,0.14,5
+MAR,Morocco,2016,0,0.07,5
+MAR,Morocco,2017,1,0.14,5
+MAR,Morocco,2018,0,0.08,5
+MAR,Morocco,2019,0,0.11,5
+MOZ,Mozambique,2015,0,0.0,5
+MOZ,Mozambique,2016,0,0.01,5
+MOZ,Mozambique,2017,0,0.0,5
+MOZ,Mozambique,2018,0,0.0,5
+MOZ,Mozambique,2019,0,0.01,5
+MMR,Myanmar,2015,0,0.21,5
+MMR,Myanmar,2016,0,0.2,5
+MMR,Myanmar,2018,0,0.08,5
+MMR,Myanmar (Burma),2017,0,0.0,5
+MMR,Myanmar (Burma),2019,0,0.0,5
+NAM,Namibia,2015,0,0.02,5
+NAM,Namibia,2016,0,0.03,5
+NAM,Namibia,2017,0,0.01,5
+NAM,Namibia,2018,0,0.01,5
+NAM,Namibia,2019,0,0.06,5
+NPL,Nepal,2015,0,0.0,5
+NPL,Nepal,2016,0,0.0,5
+NPL,Nepal,2017,0,0.0,5
+NPL,Nepal,2018,0,0.0,5
+NPL,Nepal,2019,0,0.0,5
+NLD,Netherlands,2015,0,0.03,5
+NLD,Netherlands,2016,0,0.0,5
+NLD,Netherlands,2017,0,0.0,5
+NLD,Netherlands,2018,0,0.01,5
+NLD,Netherlands,2019,0,0.0,5
+NIC,Nicaragua,2015,0,0.0,5
+NIC,Nicaragua,2016,0,0.0,5
+NIC,Nicaragua,2017,0,0.0,5
+NIC,Nicaragua,2018,0,0.0,5
+NIC,Nicaragua,2019,0,0.0,5
+NER,Niger,2015,0,0.02,5
+NER,Niger,2016,0,0.06,5
+NER,Niger,2017,0,0.03,5
+NER,Niger,2018,0,0.03,5
+NER,Niger,2019,0,0.01,5
+NGA,Nigeria,2015,0,0.15,5
+NGA,Nigeria,2016,0,0.28,5
+NGA,Nigeria,2017,1,0.31,5
+NGA,Nigeria,2018,1,0.34,5
+NGA,Nigeria,2019,0,0.13,5
+NOR,Norway,2015,0,0.01,5
+NOR,Norway,2016,0,0.01,5
+NOR,Norway,2017,0,0.03,5
+NOR,Norway,2018,0,0.02,5
+NOR,Norway,2019,0,0.02,5
+OMN,Oman,2015,0,0.02,5
+OMN,Oman,2016,0,0.01,5
+OMN,Oman,2017,0,0.01,5
+OMN,Oman,2018,0,0.01,5
+OMN,Oman,2019,0,0.01,5
+PAK,Pakistan,2015,0,0.15,5
+PAK,Pakistan,2016,0,0.26,5
+PAK,Pakistan,2017,0,0.39,5
+PAK,Pakistan,2018,0,0.25,5
+PAK,Pakistan,2019,0,0.2,5
+PSE,Palestine,2015,0,0.01,5
+PSE,Palestine,2016,0,0.01,5
+PSE,Palestine,2017,0,0.02,5
+PSE,Palestine,2018,0,0.07,5
+PSE,Palestine,2019,1,0.06,5
+PRY,Paraguay,2015,0,0.0,5
+PRY,Paraguay,2016,0,0.0,5
+PRY,Paraguay,2017,0,0.0,5
+PRY,Paraguay,2018,0,0.01,5
+PRY,Paraguay,2019,0,0.0,5
+PER,Peru,2015,1,0.27,5
+PER,Peru,2016,0,0.18,5
+PER,Peru,2017,0,0.16,5
+PER,Peru,2018,0,0.15,5
+PER,Peru,2019,0,0.16,5
+PHL,Philippines,2015,0,0.0,5
+PHL,Philippines,2016,0,0.0,5
+PHL,Philippines,2017,0,0.0,5
+PHL,Philippines,2018,0,0.02,5
+PHL,Philippines,2019,0,0.02,5
+POL,Poland,2015,0,0.01,5
+POL,Poland,2016,0,0.0,5
+POL,Poland,2017,0,0.0,5
+POL,Poland,2018,0,0.01,5
+POL,Poland,2019,0,0.0,5
+PRT,Portugal,2015,0,0.02,5
+PRT,Portugal,2016,0,0.0,5
+PRT,Portugal,2017,0,0.02,5
+PRT,Portugal,2018,0,0.0,5
+PRT,Portugal,2019,0,0.0,5
+PRI,Puerto Rico,2015,0,0.0,5
+PRI,Puerto Rico,2016,0,0.01,5
+PRI,Puerto Rico,2017,0,0.01,5
+PRI,Puerto Rico,2018,0,0.03,5
+PRI,Puerto Rico,2019,0,0.04,5
+QAT,Qatar,2015,0,0.01,5
+QAT,Qatar,2016,0,0.02,5
+QAT,Qatar,2017,0,0.02,5
+QAT,Qatar,2018,0,0.01,5
+QAT,Qatar,2019,0,0.02,5
+KOR,Republic of Korea,2016,0,0.02,5
+KOR,Republic of Korea,2017,0,0.06,5
+KOR,Republic of Korea,2019,0,0.06,5
+ROU,Romania,2015,0,0.03,5
+ROU,Romania,2016,0,0.03,5
+ROU,Romania,2017,0,0.02,5
+ROU,Romania,2018,0,0.02,5
+ROU,Romania,2019,0,0.03,5
+RWA,Rwanda,2015,0,0.02,5
+RWA,Rwanda,2016,0,0.08,5
+RWA,Rwanda,2017,0,0.02,5
+RWA,Rwanda,2018,0,0.01,5
+RWA,Rwanda,2019,0,0.04,5
+SAU,Saudi Arabia,2015,0,0.0,5
+SAU,Saudi Arabia,2016,0,0.01,5
+SAU,Saudi Arabia,2017,0,0.0,5
+SAU,Saudi Arabia,2018,0,0.0,5
+SAU,Saudi Arabia,2019,0,0.01,5
+SEN,Senegal,2015,0,0.03,5
+SEN,Senegal,2016,0,0.04,5
+SEN,Senegal,2017,0,0.03,5
+SEN,Senegal,2018,0,0.04,5
+SEN,Senegal,2019,0,0.05,5
+SRB,Serbia,2015,0,0.01,5
+SRB,Serbia,2016,0,0.0,5
+SRB,Serbia,2017,0,0.0,5
+SRB,Serbia,2018,0,0.0,5
+SRB,Serbia,2019,0,0.0,5
+SVN,Slovenia,2015,0,0.0,5
+SVN,Slovenia,2016,0,0.01,5
+SVN,Slovenia,2017,0,0.01,5
+SVN,Slovenia,2018,0,0.01,5
+SVN,Slovenia,2019,0,0.01,5
+SOM,Somalia,2015,1,0.28,5
+SOM,Somalia,2016,0,0.09,5
+SOM,Somalia,2017,1,0.2,5
+SOM,Somalia,2018,0,0.11,5
+SOM,Somalia,2019,0,0.09,5
+ZAF,South Africa,2016,1,0.26,5
+ZAF,South Africa,2017,1,0.44,5
+ZAF,South Africa,2018,1,0.3,5
+ZAF,South Africa (Namibia),2015,0,0.03,5
+ZAF,South Africa (Namibia),2019,0,0.03,5
+KOR,South Korea,2015,0,0.01,5
+KOR,South Korea,2018,0,0.02,5
+SSD,South Sudan,2015,0,0.03,5
+ZWE,Southern Rhodesia,2015,0,0.01,5
+ZWE,Southern Rhodesia,2016,0,0.0,5
+ZWE,Southern Rhodesia,2017,0,0.0,5
+ZWE,Southern Rhodesia,2018,0,0.0,5
+ZWE,Southern Rhodesia,2019,0,0.01,5
+UZB,Soviet Union (Uzbekistan),2016,0,0.02,5
+UZB,Soviet Union (Uzbekistan),2017,0,0.03,5
+ESP,Spain,2015,0,0.0,5
+ESP,Spain,2016,0,0.04,5
+ESP,Spain,2017,0,0.0,5
+ESP,Spain,2018,0,0.0,5
+ESP,Spain,2019,0,0.0,5
+LKA,Sri Lanka,2015,0,0.03,5
+LKA,Sri Lanka,2016,0,0.04,5
+LKA,Sri Lanka,2017,0,0.05,5
+LKA,Sri Lanka,2018,0,0.03,5
+LKA,Sri Lanka,2019,0,0.04,5
+SDN,Sudan,2015,0,0.27,5
+SDN,Sudan,2016,0,0.35,5
+SDN,Sudan,2017,1,0.23,5
+SDN,Sudan,2018,0,0.09,5
+SDN,Sudan,2019,1,0.28,5
+SWZ,Swaziland,2015,0,0.01,5
+SWZ,Swaziland,2016,0,0.0,5
+SWZ,Swaziland,2017,0,0.0,5
+SWZ,Swaziland,2018,0,0.0,5
+SWZ,Swaziland,2019,0,0.0,5
+CHE,Switzerland,2015,0,0.05,5
+CHE,Switzerland,2016,0,0.0,5
+CHE,Switzerland,2017,0,0.0,5
+CHE,Switzerland,2018,0,0.0,5
+CHE,Switzerland,2019,0,0.0,5
+SYR,Syria,2015,0,0.18,5
+SYR,Syria,2016,0,0.24,5
+SYR,Syria,2017,0,0.28,5
+SYR,Syria,2018,0,0.15,5
+SYR,Syria,2019,0,0.14,5
+TJK,Tajikistan,2015,0,0.22,5
+TJK,Tajikistan,2016,0,0.01,5
+TJK,Tajikistan,2017,0,0.02,5
+TJK,Tajikistan,2018,0,0.01,5
+TJK,Tajikistan,2019,0,0.01,5
+TZA,Tanzania,2015,0,0.14,5
+TZA,Tanzania,2016,0,0.06,5
+TZA,Tanzania,2017,0,0.16,5
+TZA,Tanzania,2018,1,0.12,5
+TZA,Tanzania,2019,0,0.34,5
+THA,Thailand,2015,0,0.17,5
+THA,Thailand,2016,0,0.12,5
+THA,Thailand,2017,0,0.0,5
+THA,Thailand,2018,0,0.0,5
+THA,Thailand,2019,0,0.01,5
+TGO,Togo,2015,0,0.01,5
+TGO,Togo,2016,0,0.01,5
+TGO,Togo,2017,0,0.01,5
+TGO,Togo,2018,0,0.0,5
+TGO,Togo,2019,0,0.0,5
+TUN,Tunisia,2015,0,0.06,5
+TUN,Tunisia,2016,1,0.05,5
+TUN,Tunisia,2018,0,0.02,5
+TUN,Tunisia,2019,0,0.04,5
+TUR,Turkey,2015,1,0.09,5
+TUR,Turkey,2016,0,0.02,5
+TUR,Turkey,2017,0,0.01,5
+TUR,Turkey,2018,0,0.06,5
+TUR,Turkey,2019,0,0.04,5
+TKM,Turkmenistan,2015,0,0.06,5
+RUS,USSR,2015,0,0.01,5
+RUS,USSR,2016,0,0.0,5
+RUS,USSR,2017,0,0.02,5
+RUS,USSR,2018,0,0.01,5
+RUS,USSR,2019,0,0.0,5
+TKM,USSR (Turkmenistan),2016,0,0.0,5
+TKM,USSR (Turkmenistan),2017,0,0.01,5
+TKM,USSR (Turkmenistan),2018,0,0.01,5
+TKM,USSR (Turkmenistan),2019,0,0.04,5
+UGA,Uganda,2015,0,0.04,5
+UGA,Uganda,2016,0,0.05,5
+UGA,Uganda,2017,0,0.11,5
+UGA,Uganda,2018,0,0.08,5
+UGA,Uganda,2019,0,0.05,5
+UKR,Ukraine,2015,0,0.04,5
+UKR,Ukraine,2016,0,0.02,5
+UKR,Ukraine,2017,0,0.02,5
+UKR,Ukraine,2018,0,0.02,5
+UKR,Ukraine,2019,0,0.02,5
+ARE,United Arab Emirates,2015,0,0.0,5
+ARE,United Arab Emirates,2016,0,0.0,5
+ARE,United Arab Emirates,2017,0,0.02,5
+ARE,United Arab Emirates,2018,0,0.01,5
+ARE,United Arab Emirates,2019,0,0.0,5
+USA,United States,2015,0,0.09,5
+USA,United States,2017,0,0.29,5
+USA,United States,2018,1,0.27,5
+USA,United States,2019,1,0.33,5
+URY,Uruguay,2015,0,0.3,5
+URY,Uruguay,2016,0,0.3,5
+URY,Uruguay,2017,0,0.3,5
+URY,Uruguay,2018,0,0.3,5
+URY,Uruguay,2019,0,0.26,5
+UZB,Uzbekistan,2015,0,0.31,5
+UZB,Uzbekistan,2018,0,0.36,5
+UZB,Uzbekistan,2019,0,0.26,5
+VNM,Vietnam,2015,0,0.12,5
+VNM,Vietnam,2016,0,0.07,5
+VNM,Vietnam,2017,0,0.0,5
+VNM,Vietnam,2018,0,0.0,5
+VNM,Vietnam,2019,0,0.04,5
+YEM,Yemen,2015,1,0.36,5
+YEM,Yemen,2016,0,0.49,5
+YEM,Yemen,2017,1,0.25,5
+YEM,Yemen,2018,1,0.32,5
+MNE,Yugoslavia (Montenegro),2015,0,0.0,5
+MNE,Yugoslavia (Montenegro),2016,0,0.0,5
+MNE,Yugoslavia (Montenegro),2017,0,0.0,5
+MNE,Yugoslavia (Montenegro),2018,0,0.0,5
+MNE,Yugoslavia (Montenegro),2019,0,0.0,5
+ZMB,Zambia,2015,0,0.01,5
+ZMB,Zambia,2016,0,0.01,5
+ZMB,Zambia,2017,0,0.01,5
+ZMB,Zambia,2018,0,0.01,5
+ZMB,Zambia,2019,0,0.01,5
+COG,the Republic of Congo,2015,0,0.0,5
+COG,the Republic of Congo,2017,0,0.03,5
+COG,the Republic of Congo,2018,0,0.01,5
+COG,the Republic of Congo,2019,0,0.0,5
